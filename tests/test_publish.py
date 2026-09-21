@@ -28,6 +28,23 @@ def test_same_date_replaces_instead_of_duplicating():
     assert len(kept) == 1 and kept[0].title == "差し替え" and dropped == []
 
 
+def test_publish_copies_transcript_and_prunes_old_ones(tmp_path):
+    site = tmp_path / "site"
+    for d in range(10, 18):  # 10〜17日の8回
+        mp3 = tmp_path / f"{d}.mp3"
+        mp3.write_bytes(b"x")
+        txt = tmp_path / f"{d}.txt"
+        txt.write_text(f"原稿{d}", encoding="utf-8")
+        publish(site, mp3, _ep(f"2026-09-{d:02d}"), transcript=txt)
+    names = sorted(p.name for p in (site / "episodes").iterdir())
+    expected = sorted(
+        [f"2026-09-{d:02d}.mp3" for d in range(11, 18)]
+        + [f"2026-09-{d:02d}.txt" for d in range(11, 18)]
+    )
+    assert names == expected
+    assert (site / "episodes" / "2026-09-17.txt").read_text(encoding="utf-8") == "原稿17"
+
+
 def test_publish_writes_files_and_prunes(tmp_path):
     site = tmp_path / "site"
     for d in range(10, 18):  # 10〜17日の8回

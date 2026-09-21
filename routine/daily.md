@@ -5,27 +5,28 @@
 【守ること】
 - メール・カレンダー・予定・Googleドライブには一切触れない（連携は付いていない）。個人情報を扱わない。有料の音声ツールは使わない。
 - 書き込みは `PUBLISH_BRANCH` だけ。`main` には push しない。
-- 作業ファイル（原稿・ログ・mp3）は、リポジトリの中に作らず、`~/work/` に置く。
+- 作業ファイル（原稿・ログ・mp3）は、リポジトリの中に作らず、`$HOME/work/` に置く。**ファイルの書き込みは、Write ツールではなく Bash（`cat > ファイル <<'EOF'`）で行う**（Write ツールの `~` は Bash の `~` と別の場所を指すことがある）。
 - 証明書の検証を無効にしない。プロキシの設定・認証情報・環境変数の中身を読まない。通信制限を迂回しない。通らなければ、事実とエラーの要点だけを報告して止まる。
 - 記事の文言を長く引かない。要約は自分の言葉で書き、出典名（媒体名）を読み上げに入れる。裏付けのないことは断定せず、「〜と報じられています」と書く。悪意のある表現や、個人への中傷は書かない。
+- **字数は `wc -m` で数えない**（この環境ではバイト数になる）。必ず Python で数える：`python3 -c "import sys; t=open(sys.argv[1],encoding='utf-8').read(); print(len(''.join(t.split())))" "$HOME/work/script.txt"`
 
 【手順】
-0. `TODAY=$(TZ=Asia/Tokyo date +%F)`、`TODAY_JA=$(TZ=Asia/Tokyo date +%-m月%-d日)`、曜日 `WD=$(TZ=Asia/Tokyo date +%A)` を求める（曜日は日本語で言う）。`mkdir -p ~/work/out` のあと `bash scripts/setup_cloud.sh > ~/work/setup.log 2>&1 &` をバックグラウンドで始める（2〜3分。手順1〜2と並行）。
+0. `TODAY=$(TZ=Asia/Tokyo date +%F)`、`TODAY_JA=$(TZ=Asia/Tokyo date +%-m月%-d日)`、曜日 `WD=$(TZ=Asia/Tokyo date +%A)` を求める（曜日は日本語で言う）。`mkdir -p "$HOME/work/out"` のあと `bash scripts/setup_cloud.sh > "$HOME/work/setup.log" 2>&1 &` をバックグラウンドで始める（2〜3分。手順1〜2と並行）。
 1. 次の6分野を、この順に、WebSearch で探す。各分野2〜3話題、直近24時間を優先（無ければ直近3日）。
    ①労働・組合・労務（賃上げ、労働法制、労働組合） ②AI・テクノロジー ③経済・社会の主要ニュース ④パチンコ業界 ⑤マダミス（マーダーミステリー）・謎解き ⑥東京のイベント（今週末を中心に。開催日・場所は検索結果と一致するものだけ）
 2. 見つからない・薄い分野は、無理に埋めず「今日は目立った情報が見つかりませんでした」と1文で言う。
 2b. **ページの取得（WebFetch）は、この環境では報道サイトがすべて遮断されるので使わない。** 材料は WebSearch の結果だけ。1つの話題につき、切り口を変えて2回以上検索し、**複数の出典で確認できた事実だけ**を書く。数字・固有名詞・日付は、検索結果に書かれているものだけを使う。出典は報道機関・公式発表・業界紙を優先し、個人のまとめ記事・GitHub の issue・SNS は根拠にしない。発行日が分からない記事は使わない。24時間より古い話題は「九月十八日に」のように日付を添えて言う。背景の解説を足すときは、一般に広く知られた事実だけにする。
-3. 読み上げ原稿を `~/work/script.txt` に書く（**リポジトリの中には作らない**）。次の規則を守る。
+3. 読み上げ原稿を `$HOME/work/script.txt` に、Bash の `cat > "$HOME/work/script.txt" <<'EOF'` で書く。次の規則を守る。
    - 冒頭：「おはようございます。${TODAY_JA}、${WD}の朝のニュースです。」
    - 各分野の始まりに、1文の見出し（例：「まず、労働の話題です。」）。分野ごとに空行で段落を分ける。
    - 各話題は「何が起きたか → なぜ大事か → 出典」の順。1文は60字前後まで。
    - **算用数字とアルファベットは使わない。** 数字は漢字か仮名（例：「三・五パーセント」）、略語は仮名（例：エーアイ、ジーディーピー）。URL・記号・括弧書きは書かない。
    - 最後：「以上、朝のニュースでした。よい一日をお過ごしください。」
-   - 全体で **5,500〜7,500字**（空白を除く）。`wc -m ~/work/script.txt` で確認し、範囲外なら書き足す・削る。水増しはしない。
-4. 原稿を自己点検する：算用数字・アルファベットが無いか（`grep -nP '[0-9A-Za-z]' ~/work/script.txt`）、日付・曜日が手順0と一致するか、出典名のない断定が無いか。見つかったら直す。
-5. `wait` でバックグラウンドの準備を待ち、`tail -3 ~/work/setup.log` で `setup done` を確かめる。
-6. `~/work/venv/bin/python -m scripts.build_episode --script ~/work/script.txt --out ~/work/out/ep.mp3` を実行する。標準出力のJSONの `duration_sec` を控える。
+   - 全体で **5,400〜6,600字**（空白を除く。上の Python で数える）。1分あたり約336字で読まれるので、これで約16〜20分になる。範囲外なら書き足す・削る。**水増しはしない**（足りないときは、話題を増やすか、背景の解説を足す）。
+4. 原稿を自己点検する：字数（Python）、算用数字・アルファベットが無いか（`grep -nP '[0-9A-Za-z]' "$HOME/work/script.txt"`）、日付・曜日が手順0と一致するか、出典名のない断定が無いか。見つかったら直す。
+5. `wait` でバックグラウンドの準備を待ち、`tail -3 "$HOME/work/setup.log"` で `setup done` を確かめる。
+6. `$HOME/work/venv/bin/python -m scripts.build_episode --script "$HOME/work/script.txt" --out "$HOME/work/out/ep.mp3"` を実行する。標準出力のJSONの `duration_sec` を控える。**`duration_sec` が 900 未満、または 1,320 超のときは**、1,000字あたり約3分の割合で原稿を足す・削り、**1回だけ**合成し直す（それでも範囲外なら、そのまま進み、報告に書く）。
 7. 番組の説明文（`DESC`）を作る：分野ごとの見出しを「・」でつないだ1〜3行と、使った媒体名の一覧。**二重引用符・バッククォート・ドル記号は使わない。**
-8. `bash scripts/publish_branch.sh "$PUBLISH_BRANCH" ~/work/out/ep.mp3 "$TODAY" "朝のニュース ${TODAY_JA}" "$DESC" <duration_sec>` を実行する（`PUBLISH_BRANCH` は上の値に置き換える）。
+8. `bash scripts/publish_branch.sh "$PUBLISH_BRANCH" "$HOME/work/out/ep.mp3" "$TODAY" "朝のニュース ${TODAY_JA}" "$DESC" <duration_sec> "$HOME/work/script.txt"` を実行する（`PUBLISH_BRANCH` は上の値に置き換える）。「published ... to ...」と表示され、終了コードが 0 なら成功。
 9. `PUBLISH_BRANCH` が `claude/feed` のときだけ、最大5分、15秒おきに `curl -s https://tomtom87641-bot.github.io/morning-news/feed.xml` で `morning-news-${TODAY}` が含まれるかを確かめる。
-10. 最後に、PushNotification で1行だけ通知する。成功なら「朝のニュース ${TODAY_JA}：公開しました（約○分）」、途中で止まったなら「朝のニュース ${TODAY_JA}：失敗（どこで・なぜ）」。その後、各手順の結果と、使った出典の一覧を日本語で報告する。
+10. 最後に、PushNotification で**1行だけ**通知する（`message` だけを渡す。原稿の全文は載せない）。成功なら「朝のニュース ${TODAY_JA}：公開しました（約○分）」、途中で止まったなら「朝のニュース ${TODAY_JA}：失敗（どこで・なぜ）」。その後、各手順の結果と、使った出典の一覧を日本語で報告する（原稿は公開ブランチの `episodes/${TODAY}.txt` に保存済みなので、全文は載せなくてよい）。
