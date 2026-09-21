@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>朝のニュース（自分用）</title>
+    <link>https://tomtom87641-bot.github.io/morning-news</link>
+    <description>毎朝、公開ニュースを自分用にまとめて読み上げる番組。</description>
+    <language>ja</language>
+    <itunes:author>自分用</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>朝のニュース 2026-09-22（テスト）</title>
+      <description>公開テスト用の短い回です。</description>
+      <pubDate>Tue, 22 Sep 2026 03:03:24 +0900</pubDate>
+      <guid isPermaLink="false">morning-news-2026-09-22</guid>
+      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-09-22.mp3" length="66332" type="audio/mpeg"/>
+      <itunes:duration>00:00:10</itunes:duration>
+    </item>
+  </channel>
+</rss>
