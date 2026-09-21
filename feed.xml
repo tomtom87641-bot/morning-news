@@ -8,14 +8,14 @@
     <itunes:author>自分用</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>朝のニュース 9月22日</title>
-      <description>労働（東京都最低賃金引き上げ、ノジマの賃上げ）・エーアイ（アームのフィジカルAI企業連合、国内企業連合）・経済（個人金融資産が過去最高、戦後最長の景気拡大）
-パチンコ（全日遊連の推しの日継続、営業店舗数の推移）・マダミス（グループSNE×cosaicの新作三本）・東京イベント（渋谷みやしたパーク盆ダンス、ナマステ・インディア）
-使用媒体：日本経済新聞、時事通信、NHKニュース、nippon.com、Yahoo!ニュース、TBS NEWS DIG、テレビ朝日、厚生労働省東京労働局、流通ニュース、JILPT、web-greenbelt、パチンコビレッジ、Murder.JP、tokyofesta、walkerplus、iFLYER</description>
-      <pubDate>Tue, 22 Sep 2026 03:26:05 +0900</pubDate>
+      <title>朝のニュース 9月22日（試作）</title>
+      <description>労働・最低賃金引き上げと労働基準法見直し／AIの新モデル発表／貿易赤字と尖閣諸島情勢／パチンコ業界の新台と店舗動向／マーダーミステリー新作／東京の週末イベント
+
+出典：厚生労働省、東京商工リサーチ、日本経済新聞、日本銀行、財務省、海上保安庁、業界紙（パチンコ・パチスロ関連）、全日遊連、マーダー・ジェーピー、こくちーずプロ、ウォーカープラス 他</description>
+      <pubDate>Tue, 22 Sep 2026 03:58:06 +0900</pubDate>
       <guid isPermaLink="false">morning-news-2026-09-22</guid>
-      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-09-22.mp3" length="2082476" type="audio/mpeg"/>
-      <itunes:duration>00:05:46</itunes:duration>
+      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-09-22.mp3" length="5796092" type="audio/mpeg"/>
+      <itunes:duration>00:16:05</itunes:duration>
     </item>
   </channel>
 </rss>
