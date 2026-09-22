@@ -26,7 +26,10 @@ def _attr(value: str) -> str:
     return escape(value, {'"': "&quot;"})
 
 
-def build_feed(episodes, *, title: str, description: str, site_url: str, language: str = "ja") -> str:
+def build_feed(
+    episodes, *, title: str, description: str, site_url: str, language: str = "ja",
+    image_url: str | None = None,
+) -> str:
     items = []
     for ep in sorted(episodes, key=lambda e: e.date, reverse=True):
         url = f"{site_url}/episodes/{ep.filename}"
@@ -42,6 +45,16 @@ def build_feed(episodes, *, title: str, description: str, site_url: str, languag
             "    </item>"
         )
     body = "\n".join(items)
+    image_block = ""
+    if image_url:
+        image_block = (
+            f'    <itunes:image href="{_attr(image_url)}"/>\n'
+            "    <image>\n"
+            f"      <url>{escape(image_url)}</url>\n"
+            f"      <title>{escape(title)}</title>\n"
+            f"      <link>{escape(site_url)}</link>\n"
+            "    </image>\n"
+        )
     return (
         '<?xml version="1.0" encoding="UTF-8"?>\n'
         '<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">\n'
@@ -52,6 +65,7 @@ def build_feed(episodes, *, title: str, description: str, site_url: str, languag
         f"    <language>{escape(language)}</language>\n"
         "    <itunes:author>自分用</itunes:author>\n"
         "    <itunes:explicit>false</itunes:explicit>\n"
+        f"{image_block}"
         f"{body}\n"
         "  </channel>\n"
         "</rss>\n"

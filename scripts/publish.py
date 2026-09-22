@@ -32,19 +32,28 @@ def _save_episodes(path: Path, episodes) -> None:
     )
 
 
-def publish(site_dir: Path, mp3: Path, new: Episode, keep: int = KEEP, transcript: Path | None = None) -> None:
+def publish(
+    site_dir: Path, mp3: Path, new: Episode, keep: int = KEEP,
+    transcript: Path | None = None, cover_image: Path | None = None,
+) -> None:
     episodes_dir = site_dir / "episodes"
     episodes_dir.mkdir(parents=True, exist_ok=True)
     shutil.copy2(mp3, episodes_dir / new.filename)
     if transcript is not None:
         shutil.copy2(transcript, episodes_dir / Path(new.filename).with_suffix(".txt"))
+    if cover_image is not None:
+        shutil.copy2(cover_image, site_dir / "cover.jpg")
     kept, dropped = add_episode(load_episodes(site_dir / "episodes.json"), new, keep)
     for name in dropped:
         (episodes_dir / name).unlink(missing_ok=True)
         (episodes_dir / Path(name).with_suffix(".txt")).unlink(missing_ok=True)
     _save_episodes(site_dir / "episodes.json", kept)
+    image_url = f"{SITE_URL}/cover.jpg" if (site_dir / "cover.jpg").exists() else None
     (site_dir / "feed.xml").write_text(
-        build_feed(kept, title=FEED_TITLE, description=FEED_DESCRIPTION, site_url=SITE_URL),
+        build_feed(
+            kept, title=FEED_TITLE, description=FEED_DESCRIPTION, site_url=SITE_URL,
+            image_url=image_url,
+        ),
         encoding="utf-8",
     )
 
@@ -59,6 +68,7 @@ def main() -> None:
     p.add_argument("--duration-sec", required=True, type=int)
     p.add_argument("--pub-date", required=True)
     p.add_argument("--transcript", type=Path, default=None)
+    p.add_argument("--cover-image", type=Path, default=None)
     a = p.parse_args()
     ep = Episode(
         date=a.date,
@@ -69,7 +79,7 @@ def main() -> None:
         duration_sec=a.duration_sec,
         pub_date=a.pub_date,
     )
-    publish(a.site_dir, a.mp3, ep, transcript=a.transcript)
+    publish(a.site_dir, a.mp3, ep, transcript=a.transcript, cover_image=a.cover_image)
 
 
 if __name__ == "__main__":

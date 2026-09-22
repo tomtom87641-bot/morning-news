@@ -19,7 +19,9 @@ else
   git -C "$SITE" rm -rf --quiet .
 fi
 EXTRA=()
-if [ -n "$TRANSCRIPT" ]; then EXTRA=(--transcript "$(realpath "$TRANSCRIPT")"); fi
+if [ -n "$TRANSCRIPT" ]; then EXTRA+=(--transcript "$(realpath "$TRANSCRIPT")"); fi
+COVER_IMAGE="$REPO/assets/cover.jpg"
+if [ -f "$COVER_IMAGE" ]; then EXTRA+=(--cover-image "$COVER_IMAGE"); fi
 "$PY" -m scripts.publish --site-dir "$SITE" --mp3 "$MP3" --date "$DATE" \
   --title "$TITLE" --description "$DESC" --duration-sec "$DUR" \
   --pub-date "$(TZ=Asia/Tokyo date +%Y-%m-%dT%H:%M:%S%:z)" "${EXTRA[@]}"

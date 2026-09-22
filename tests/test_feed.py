@@ -55,3 +55,24 @@ def test_special_characters_are_escaped():
 def test_pubdate_is_rfc822():
     root = ET.fromstring(_build([_ep("2026-09-23")]))
     assert next(root.iter("item")).findtext("pubDate") == "Wed, 23 Sep 2026 05:30:00 +0900"
+
+
+def test_no_image_tag_when_image_url_omitted():
+    root = ET.fromstring(_build([_ep("2026-09-23")]))
+    assert root.find(f"channel/{ITUNES}image") is None
+    assert root.find("channel/image") is None
+
+
+def test_image_tags_present_when_image_url_given():
+    xml = build_feed(
+        [_ep("2026-09-23")],
+        title="朝のニュース",
+        description="自分用",
+        site_url="https://example.github.io/morning-news",
+        image_url="https://example.github.io/morning-news/cover.jpg",
+    )
+    root = ET.fromstring(xml)
+    itunes_image = root.find(f"channel/{ITUNES}image")
+    assert itunes_image.get("href") == "https://example.github.io/morning-news/cover.jpg"
+    assert root.findtext("channel/image/url") == "https://example.github.io/morning-news/cover.jpg"
+    assert root.findtext("channel/image/title") == "朝のニュース"

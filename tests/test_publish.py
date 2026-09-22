@@ -45,6 +45,29 @@ def test_publish_copies_transcript_and_prunes_old_ones(tmp_path):
     assert (site / "episodes" / "2026-09-17.txt").read_text(encoding="utf-8") == "原稿17"
 
 
+def test_publish_copies_cover_image_and_references_it_in_feed(tmp_path):
+    site = tmp_path / "site"
+    mp3 = tmp_path / "a.mp3"
+    mp3.write_bytes(b"x")
+    cover = tmp_path / "cover_source.jpg"
+    cover.write_bytes(b"fake-jpeg-bytes")
+    publish(site, mp3, _ep("2026-09-22"), cover_image=cover)
+    assert (site / "cover.jpg").read_bytes() == b"fake-jpeg-bytes"
+    assert "cover.jpg" in (site / "feed.xml").read_text(encoding="utf-8")
+
+
+def test_publish_without_cover_image_keeps_existing_one(tmp_path):
+    site = tmp_path / "site"
+    mp3 = tmp_path / "a.mp3"
+    mp3.write_bytes(b"x")
+    cover = tmp_path / "cover_source.jpg"
+    cover.write_bytes(b"fake-jpeg-bytes")
+    publish(site, mp3, _ep("2026-09-22"), cover_image=cover)
+    publish(site, mp3, _ep("2026-09-23"))  # cover_image を渡さない2回目
+    assert (site / "cover.jpg").read_bytes() == b"fake-jpeg-bytes"
+    assert "cover.jpg" in (site / "feed.xml").read_text(encoding="utf-8")
+
+
 def test_publish_writes_files_and_prunes(tmp_path):
     site = tmp_path / "site"
     for d in range(10, 18):  # 10〜17日の8回
