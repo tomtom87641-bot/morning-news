@@ -8,6 +8,14 @@
     <itunes:author>自分用</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>朝のニュース 9月22日（掛け合い版）</title>
+      <description>ミナミとカケルの掛け合い形式のテスト版です。事実確認は未実施。労働・エーアイ・経済・パチンコ・マダミス・東京イベントの六分野を対話でお伝えします。</description>
+      <pubDate>Tue, 22 Sep 2026 04:19:48 +0000</pubDate>
+      <guid isPermaLink="false">morning-news-2026-09-22-dialogue</guid>
+      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-09-22-dialogue.mp3" length="6698972" type="audio/mpeg"/>
+      <itunes:duration>00:18:36</itunes:duration>
+    </item>
+    <item>
       <title>朝のニュース 9月22日</title>
       <description>最低賃金引き上げ・UAゼンセン賃上げ妥結・労働基準法見直し議論・OpenAIの国際AI基準提言・新型Mac mini発売
 日銀利上げ・高齢者人口最多更新・台風25号接近・全日遊連加盟店舗数減少・ミライぱちんこ産業連盟の動き
