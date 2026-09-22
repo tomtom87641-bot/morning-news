@@ -7,51 +7,12 @@
     <language>ja</language>
     <itunes:author>自分用</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <item>
-      <title>口調テスト：一人語り・語りかけ版</title>
-      <description>口調のテスト用サンプルです（最低賃金の話題1本のみ・短め）。一人語り・聞き手に語りかける言い方。</description>
-      <pubDate>Tue, 22 Sep 2026 06:23:06 +0000</pubDate>
-      <guid isPermaLink="false">morning-news-2026-09-22-tone-narrative</guid>
-      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-09-22-tone-narrative.mp3" length="358508" type="audio/mpeg"/>
-      <itunes:duration>00:01:40</itunes:duration>
-    </item>
-    <item>
-      <title>口調テスト：一人語り・フランク版</title>
-      <description>口調のテスト用サンプルです（最低賃金の話題1本のみ・短め）。一人語り・少しフランクな言い方。</description>
-      <pubDate>Tue, 22 Sep 2026 06:16:34 +0000</pubDate>
-      <guid isPermaLink="false">morning-news-2026-09-22-tone-casual</guid>
-      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-09-22-tone-casual.mp3" length="352604" type="audio/mpeg"/>
-      <itunes:duration>00:01:38</itunes:duration>
-    </item>
-    <item>
-      <title>朝のニュース 9月22日（掛け合い版）</title>
-      <description>ミナミとカケルの掛け合い形式のテスト版です。事実確認は未実施。労働・エーアイ・経済・パチンコ・マダミス・東京イベントの六分野を対話でお伝えします。</description>
-      <pubDate>Tue, 22 Sep 2026 04:19:48 +0000</pubDate>
-      <guid isPermaLink="false">morning-news-2026-09-22-dialogue</guid>
-      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-09-22-dialogue.mp3" length="6698972" type="audio/mpeg"/>
-      <itunes:duration>00:18:36</itunes:duration>
-    </item>
-    <item>
-      <title>朝のニュース 9月22日</title>
-      <description>最低賃金引き上げ・UAゼンセン賃上げ妥結・労働基準法見直し議論・OpenAIの国際AI基準提言・新型Mac mini発売
-日銀利上げ・高齢者人口最多更新・台風25号接近・全日遊連加盟店舗数減少・ミライぱちんこ産業連盟の動き
-マーダーミステリー新演目・ストーリープレイング新作・渋谷盆踊り・中野ラーメン祭・蒸留酒フェス
+    <itunes:image href="https://tomtom87641-bot.github.io/morning-news/cover.jpg"/>
+    <image>
+      <url>https://tomtom87641-bot.github.io/morning-news/cover.jpg</url>
+      <title>朝のニュース（自分用）</title>
+      <link>https://tomtom87641-bot.github.io/morning-news</link>
+    </image>
 
-使用媒体：厚生労働省、総務省、時事通信、日本経済新聞、流通ニュース、CNBC、Bloomberg、iPhone Mania、全日遊連、P-WORLDニュース、グリーンべると、ぴあ、チケットステージ、中野区観光協会、エンジョイ東京、PR TIMES ほか</description>
-      <pubDate>Tue, 22 Sep 2026 11:21:00 +0900</pubDate>
-      <guid isPermaLink="false">morning-news-2026-09-22</guid>
-      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-09-22.mp3" length="5848508" type="audio/mpeg"/>
-      <itunes:duration>00:16:14</itunes:duration>
-    </item>
-    <item>
-      <title>朝のニュース 9月21日 夜分</title>
-      <description>労働・最低賃金引き上げと労働基準法見直し／AIの新モデル発表／貿易赤字と尖閣諸島情勢／パチンコ業界の新台と店舗動向／マーダーミステリー新作／東京の週末イベント
-
-出典：厚生労働省、東京商工リサーチ、日本経済新聞、日本銀行、財務省、海上保安庁、業界紙（パチンコ・パチスロ関連）、全日遊連、マーダー・ジェーピー、こくちーずプロ、ウォーカープラス 他</description>
-      <pubDate>Tue, 22 Sep 2026 02:32:45 +0000</pubDate>
-      <guid isPermaLink="false">morning-news-2026-09-21-yoru</guid>
-      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-09-21-yoru.mp3" length="5796092" type="audio/mpeg"/>
-      <itunes:duration>00:16:05</itunes:duration>
-    </item>
   </channel>
 </rss>
