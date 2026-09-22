@@ -8,6 +8,14 @@
     <itunes:author>自分用</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>口調テスト：一人語り・語りかけ版</title>
+      <description>口調のテスト用サンプルです（最低賃金の話題1本のみ・短め）。一人語り・聞き手に語りかける言い方。</description>
+      <pubDate>Tue, 22 Sep 2026 06:23:06 +0000</pubDate>
+      <guid isPermaLink="false">morning-news-2026-09-22-tone-narrative</guid>
+      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-09-22-tone-narrative.mp3" length="358508" type="audio/mpeg"/>
+      <itunes:duration>00:01:40</itunes:duration>
+    </item>
+    <item>
       <title>口調テスト：一人語り・フランク版</title>
       <description>口調のテスト用サンプルです（最低賃金の話題1本のみ・短め）。一人語り・少しフランクな言い方。</description>
       <pubDate>Tue, 22 Sep 2026 06:16:34 +0000</pubDate>
