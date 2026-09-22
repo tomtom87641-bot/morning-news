@@ -19,5 +19,15 @@
       <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-09-22.mp3" length="5848508" type="audio/mpeg"/>
       <itunes:duration>00:16:14</itunes:duration>
     </item>
+    <item>
+      <title>朝のニュース 9月21日 夜分</title>
+      <description>労働・最低賃金引き上げと労働基準法見直し／AIの新モデル発表／貿易赤字と尖閣諸島情勢／パチンコ業界の新台と店舗動向／マーダーミステリー新作／東京の週末イベント
+
+出典：厚生労働省、東京商工リサーチ、日本経済新聞、日本銀行、財務省、海上保安庁、業界紙（パチンコ・パチスロ関連）、全日遊連、マーダー・ジェーピー、こくちーずプロ、ウォーカープラス 他</description>
+      <pubDate>Tue, 22 Sep 2026 02:32:45 +0000</pubDate>
+      <guid isPermaLink="false">morning-news-2026-09-21-yoru</guid>
+      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-09-21-yoru.mp3" length="5796092" type="audio/mpeg"/>
+      <itunes:duration>00:16:05</itunes:duration>
+    </item>
   </channel>
 </rss>
