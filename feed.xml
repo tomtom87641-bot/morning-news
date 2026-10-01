@@ -14,6 +14,15 @@
       <link>https://tomtom87641-bot.github.io/morning-news</link>
     </image>
     <item>
+      <title>朝のニュース 10月2日</title>
+      <description>最低賃金引き上げと春季労使交渉・エーアイ各社の新モデル発表・食品値上げとカスハラ対策・パチンコ新カテゴリ表示・マダミスと謎解き新作・東京の週末イベント
+出典：エヌエイチケー、日本経済新聞、時事通信、アイティメディア、財経新聞、業界紙、ピーワールド、デンファミニコゲーマー、ウォーカープラスほか</description>
+      <pubDate>Fri, 02 Oct 2026 06:30:30 +0900</pubDate>
+      <guid isPermaLink="false">morning-news-2026-10-02</guid>
+      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-02.mp3" length="5748140" type="audio/mpeg"/>
+      <itunes:duration>00:15:57</itunes:duration>
+    </item>
+    <item>
       <title>朝のニュース 10月1日</title>
       <description>労働・エーアイ・経済・パチンコ・マダミスとイマーシブシアター・東京の週末イベントをお届けします。
 出典：業界紙、専門メディア、関係者への取材、複数のイベント情報サイトなど。</description>
@@ -68,15 +77,6 @@
       <guid isPermaLink="false">morning-news-2026-09-26</guid>
       <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-09-26.mp3" length="5656988" type="audio/mpeg"/>
       <itunes:duration>00:15:42</itunes:duration>
-    </item>
-    <item>
-      <title>朝のニュース 9月25日</title>
-      <description>最低賃金の話題を続報中心に更新・パチンコ広告ガイドラインと妖怪ウォッチ新台・台風25号の続報・ナマステインディア開催へ差し替えました。
-使用媒体：日本経済新聞、時事通信、共同通信、ギガジン、ライブドアニュース、インプレスウォッチ、NHKニュース、ヤフーファイナンス、読売新聞、遊技通信、グリーンベルト、フォーゲーマー、マイナビニュース、アップバンク、ピーアールタイムズ、いこーよニュース、東京フェスタ、厚生労働省、政府広報オンライン</description>
-      <pubDate>Fri, 25 Sep 2026 09:28:03 +0900</pubDate>
-      <guid isPermaLink="false">morning-news-2026-09-25</guid>
-      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-09-25.mp3" length="5481020" type="audio/mpeg"/>
-      <itunes:duration>00:15:13</itunes:duration>
     </item>
   </channel>
 </rss>
