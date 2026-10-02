@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>別館</title>
+    <link>https://tomtom87641-bot.github.io/morning-news/annex</link>
+    <description>朝のニュースとは別の、いろいろな音声を置く場所。</description>
+    <language>ja</language>
+    <itunes:author>自分用</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://tomtom87641-bot.github.io/morning-news/annex/cover.jpg"/>
+    <image>
+      <url>https://tomtom87641-bot.github.io/morning-news/annex/cover.jpg</url>
+      <title>別館</title>
+      <link>https://tomtom87641-bot.github.io/morning-news/annex</link>
+    </image>
+    <item>
+      <title>動作確認（無音）</title>
+      <description>動作確認用の無音の回です。</description>
+      <pubDate>Sat, 03 Oct 2026 01:50:41 +0900</pubDate>
+      <guid isPermaLink="false">morning-news-2026-10-03-check</guid>
+      <enclosure url="https://tomtom87641-bot.github.io/morning-news/annex/episodes/2026-10-03-check.mp3" length="80064" type="audio/mpeg"/>
+      <itunes:duration>00:00:05</itunes:duration>
+    </item>
+  </channel>
+</rss>
