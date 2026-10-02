@@ -13,6 +13,13 @@
       <title>別館</title>
       <link>https://tomtom87641-bot.github.io/morning-news/annex</link>
     </image>
-
+    <item>
+      <title>特別編　小説『議事は止まらない』朗読</title>
+      <description>マーダーミステリー『議事は止まらない』の小説版を、人物ごとに声を分けて朗読しました。約56分。登場する組合・会社・人物はすべて架空です。音声：VOICEVOX:No.7／麒ヶ島宗麟／青山龍星／玄野武宏／白上虎太郎／冥鳴ひまり／九州そら／剣崎雌雄／雀松朱司／ちび式じい／離途／黒沢冴白／東北イタコ</description>
+      <pubDate>Sat, 03 Oct 2026 02:23:32 +0900</pubDate>
+      <guid isPermaLink="false">morning-news-2026-10-03-madamis-novel</guid>
+      <enclosure url="https://tomtom87641-bot.github.io/morning-news/annex/episodes/2026-10-03-madamis-novel.mp3" length="26769452" type="audio/mpeg"/>
+      <itunes:duration>00:55:46</itunes:duration>
+    </item>
   </channel>
 </rss>
