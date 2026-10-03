@@ -14,6 +14,15 @@
       <link>https://tomtom87641-bot.github.io/morning-news</link>
     </image>
     <item>
+      <title>朝のニュース 10月4日</title>
+      <description>労働・社会保険の制度変更、生成AIの新発表、日銀と金融政策、三重県の火災、北朝鮮のミサイル、パチンコ業界の動き、マーダーミステリー新作、東京の週末イベントをお届けします。
+出典：厚生労働省、日本経済新聞、時事通信、共同通信、NHK、ITmedia、GIGAZINE、業界紙各社、各イベント公式情報</description>
+      <pubDate>Sun, 04 Oct 2026 06:40:23 +0900</pubDate>
+      <guid isPermaLink="false">morning-news-2026-10-04</guid>
+      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-04.mp3" length="5597660" type="audio/mpeg"/>
+      <itunes:duration>00:15:32</itunes:duration>
+    </item>
+    <item>
       <title>朝のニュース 10月3日</title>
       <description>労働・AIとテクノロジー・経済と社会・パチンコ業界・マーダーミステリーと謎解き・東京のイベントの六分野をお届けします。
 ・労働 最低賃金の引き上げと来春闘に向けた連合の方針
@@ -74,15 +83,6 @@
       <guid isPermaLink="false">morning-news-2026-09-28</guid>
       <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-09-28.mp3" length="5761100" type="audio/mpeg"/>
       <itunes:duration>00:16:00</itunes:duration>
-    </item>
-    <item>
-      <title>朝のニュース 9月27日</title>
-      <description>最低賃金引き上げ・エーアイの逸脱行動と新型モデル・日銀利上げと円安・全日遊連の無料体験導入・怪盗と秘密の試験ほかマダミス新作・深川十五夜まつり
-出典: 厚生労働省、総務省、日銀、東京商工リサーチ、パーソルキャリア、NHK、財経新聞、時事通信、全日遊連、グリーンべると、セントラルグループ、ライズコミュニケーション、エクスペリフル、イムゲーム、富岡八幡宮、上野の森美術館、目黒区美術館、日本相撲協会 ほか</description>
-      <pubDate>Sun, 27 Sep 2026 06:32:07 +0900</pubDate>
-      <guid isPermaLink="false">morning-news-2026-09-27</guid>
-      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-09-27.mp3" length="6201740" type="audio/mpeg"/>
-      <itunes:duration>00:17:13</itunes:duration>
     </item>
   </channel>
 </rss>
