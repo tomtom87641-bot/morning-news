@@ -14,6 +14,15 @@
       <link>https://tomtom87641-bot.github.io/morning-news</link>
     </image>
     <item>
+      <title>朝のニュース 10月8日</title>
+      <description>最低賃金が十月から都道府県ごとに改定・グーグルの新AIモデルとコパイロット拡張・ノーベル化学賞と生理学医学賞・日銀の利上げと実質賃金・パチンコ業界の新台とホール動向・謎解きとイマーシブシアターの最新情報・三連休の東京イベント
+出典：時事通信、日本経済新聞、共同通信、労働新聞、労働政策研究・研修機構、連合、帝国データバンク、ピータウン、ウォーカープラス、いこーよ、ゲームビズ、タイムアウト東京、鉄道チャンネル</description>
+      <pubDate>Thu, 08 Oct 2026 06:35:48 +0900</pubDate>
+      <guid isPermaLink="false">morning-news-2026-10-08</guid>
+      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-08.mp3" length="5905100" type="audio/mpeg"/>
+      <itunes:duration>00:16:24</itunes:duration>
+    </item>
+    <item>
       <title>朝のニュース 十月七日</title>
       <description>労働（最低賃金十月発効・金属労協の再雇用賃上げ・八月の企業倒産）・エーアイとテクノロジー（日立とアステモの自動運転AI提携・エヌビディアの日本企業連携・ラピダスへの追加支援・半導体市場予測）・経済と社会（ノーベル生理学医学賞・ノーベル物理学賞・十月の値上げ）・パチンコ業界（マイジャグラー新機種・スマスロ獣王・全日遊連の推しの日）・マダミスと謎解き（コナンコラボ脱出ゲーム・十人の憂鬱な容疑者・マダミス喫茶）・東京のイベント（アルテ東京・北海道まるごとフェア）
 使用媒体：厚生労働省、労働新聞、東京商工リサーチ、ニッポンドットコム、ビジネスインサイダージャパン、経済産業省、日本経済新聞、時事通信、エヌエイチケー、帝国データバンク、ピータウン、全日遊連、サイエンスポータル</description>
@@ -73,15 +82,6 @@
       <guid isPermaLink="false">morning-news-2026-10-02</guid>
       <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-02.mp3" length="5748140" type="audio/mpeg"/>
       <itunes:duration>00:15:57</itunes:duration>
-    </item>
-    <item>
-      <title>朝のニュース 10月1日</title>
-      <description>労働・エーアイ・経済・パチンコ・マダミスとイマーシブシアター・東京の週末イベントをお届けします。
-出典：業界紙、専門メディア、関係者への取材、複数のイベント情報サイトなど。</description>
-      <pubDate>Thu, 01 Oct 2026 08:29:37 +0900</pubDate>
-      <guid isPermaLink="false">morning-news-2026-10-01</guid>
-      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-01.mp3" length="5801996" type="audio/mpeg"/>
-      <itunes:duration>00:16:06</itunes:duration>
     </item>
   </channel>
 </rss>
