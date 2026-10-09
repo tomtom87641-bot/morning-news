@@ -14,6 +14,15 @@
       <link>https://tomtom87641-bot.github.io/morning-news</link>
     </image>
     <item>
+      <title>朝のニュース 10月10日</title>
+      <description>労働：パートタイム・有期雇用の待遇ルール変更、トヨタの祝日勤務見直し、望まない転勤の廃止の動き・エーアイ：エーアイガバナンス協業、小売業向けエーアイエージェント、AIインサイドの事業提携・経済社会：食料品消費税引き下げ法案の国会提出、データセンター不正アクセス、八月家計調査・パチンコ：新台一斉導入、スマート遊技機の普及、クレーンゲーム専門店・マダミスと謎解きとイマーシブシアターの最新情報・東京の三連休イベント情報
+出典：厚生労働省、総務省、エヌエイチケー、共同通信、東洋経済、エヌティーティーグループ、富士通、ゲームビズ、業界専門サイトなど</description>
+      <pubDate>Sat, 10 Oct 2026 06:38:13 +0900</pubDate>
+      <guid isPermaLink="false">morning-news-2026-10-10</guid>
+      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-10.mp3" length="5652524" type="audio/mpeg"/>
+      <itunes:duration>00:15:42</itunes:duration>
+    </item>
+    <item>
       <title>朝のニュース 10月9日</title>
       <description>労働はカスタマーハラスメント対策・就活セクハラ防止の義務化とハタラクエール2027・AIは富士通とアンソロピックの提携やサカナAIの動き
 経済は日経平均株価の続落と8月の訪日外国人数・パチンコは加熱式たばこ経過措置や新台、スターダムへの冠協賛
@@ -69,22 +78,6 @@
       <guid isPermaLink="false">morning-news-2026-10-04</guid>
       <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-04.mp3" length="5597660" type="audio/mpeg"/>
       <itunes:duration>00:15:32</itunes:duration>
-    </item>
-    <item>
-      <title>朝のニュース 10月3日</title>
-      <description>労働・AIとテクノロジー・経済と社会・パチンコ業界・マーダーミステリーと謎解き・東京のイベントの六分野をお届けします。
-・労働 最低賃金の引き上げと来春闘に向けた連合の方針
-・AIとテクノロジー グーグルのジェミニ四アルゴン公開見送りと東芝のHDD増産
-・経済と社会 日経平均の反落、東京物価上昇、東北地銀三行の経営統合協議、佐川急便の情報流出
-・パチンコ業界 家族滞在の外国人就労解禁とスリーセブンコンパスの不正アクセス
-・マーダーミステリーと謎解き 過去干渉課、浅草怪宴夜行、殺意の代償
-・東京のイベント サルサストリート、ペルーフェスタ渋谷、すみだまつり
-
-出典 時事通信 日本経済新聞 NHK AFPBB News Investing.com ITmedia News スロパチニュース グリーンベルト みんなの経済新聞ネットワーク ステージナタリー</description>
-      <pubDate>Sat, 03 Oct 2026 06:28:40 +0900</pubDate>
-      <guid isPermaLink="false">morning-news-2026-10-03</guid>
-      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-03.mp3" length="5689964" type="audio/mpeg"/>
-      <itunes:duration>00:15:48</itunes:duration>
     </item>
   </channel>
 </rss>
