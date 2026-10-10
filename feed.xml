@@ -14,6 +14,16 @@
       <link>https://tomtom87641-bot.github.io/morning-news</link>
     </image>
     <item>
+      <title>朝のニュース 十月十一日</title>
+      <description>労働・エーアイ・経済・パチンコ・マダミスや謎解き・東京のイベントまで、まとめて届ける朝のニュース番組です。
+今日は、中小企業の賃上げ状況と同一賃金指針の改正・ソフトバンクのエーアイ向けクラウドサービス・食品値上げと新米価格や物価指数・パチンコの新機種・忍者屋敷やコナンとコラボした脱出ゲーム・目黒区民まつりや上野の展覧会などを取り上げています。
+参考媒体:労働新聞、帝国データバンク、総務省統計局、経済産業省、専門の新台情報サイト、お出かけ情報サイトなど</description>
+      <pubDate>Sun, 11 Oct 2026 06:41:54 +0900</pubDate>
+      <guid isPermaLink="false">morning-news-2026-10-11</guid>
+      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-11.mp3" length="5687516" type="audio/mpeg"/>
+      <itunes:duration>00:15:47</itunes:duration>
+    </item>
+    <item>
       <title>朝のニュース 10月10日</title>
       <description>労働：パートタイム・有期雇用の待遇ルール変更、トヨタの祝日勤務見直し、望まない転勤の廃止の動き・エーアイ：エーアイガバナンス協業、小売業向けエーアイエージェント、AIインサイドの事業提携・経済社会：食料品消費税引き下げ法案の国会提出、データセンター不正アクセス、八月家計調査・パチンコ：新台一斉導入、スマート遊技機の普及、クレーンゲーム専門店・マダミスと謎解きとイマーシブシアターの最新情報・東京の三連休イベント情報
 出典：厚生労働省、総務省、エヌエイチケー、共同通信、東洋経済、エヌティーティーグループ、富士通、ゲームビズ、業界専門サイトなど</description>
@@ -69,15 +79,6 @@
       <guid isPermaLink="false">morning-news-2026-10-05</guid>
       <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-05.mp3" length="5649500" type="audio/mpeg"/>
       <itunes:duration>00:15:41</itunes:duration>
-    </item>
-    <item>
-      <title>朝のニュース 10月4日</title>
-      <description>労働・社会保険の制度変更、生成AIの新発表、日銀と金融政策、三重県の火災、北朝鮮のミサイル、パチンコ業界の動き、マーダーミステリー新作、東京の週末イベントをお届けします。
-出典：厚生労働省、日本経済新聞、時事通信、共同通信、NHK、ITmedia、GIGAZINE、業界紙各社、各イベント公式情報</description>
-      <pubDate>Sun, 04 Oct 2026 06:40:23 +0900</pubDate>
-      <guid isPermaLink="false">morning-news-2026-10-04</guid>
-      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-04.mp3" length="5597660" type="audio/mpeg"/>
-      <itunes:duration>00:15:32</itunes:duration>
     </item>
   </channel>
 </rss>
