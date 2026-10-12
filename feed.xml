@@ -14,6 +14,16 @@
       <link>https://tomtom87641-bot.github.io/morning-news</link>
     </image>
     <item>
+      <title>朝のニュース 10月13日</title>
+      <description>十月十三日の朝のニュースです。労働・AIテクノロジー・経済社会・パチンコ業界・マダミスと謎解き・東京のイベントの六分野をお届けします。
+・フリーランス新法の実施状況と外国人雇用実態調査・サカナAIと住友商事グループの提携、ギークプラスのヒューマノイド披露・全国消費者物価指数と景気拡大をめぐる分析・業界団体の新しい遊技機区分とマイジャグラーシックス導入・推理ボードゲームとナゾトキマーケット・東京スカイツリータウンのオクトーバーフェストと東京国際映画祭、デザインフェスタ
+使用した媒体・出典:連合、フリーランス協会、厚生労働省、住友商事、モノイスト、総務省統計局、帝国データバンク、大和総研、業界メディア、専門サイトの新台情報、各製作会社・主催者の発表</description>
+      <pubDate>Tue, 13 Oct 2026 06:33:19 +0900</pubDate>
+      <guid isPermaLink="false">morning-news-2026-10-13</guid>
+      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-13.mp3" length="5670956" type="audio/mpeg"/>
+      <itunes:duration>00:15:45</itunes:duration>
+    </item>
+    <item>
       <title>朝のニュース 10月12日</title>
       <description>最低賃金の順次切り替えと書類送検の増加・デジタル庁の国産AI実証実験とNEC×アンソロピック・臨時国会の所信表明と電気ガス補助終了・パチンコ新機種 獣王と聖闘士星矢黄金十二宮・マーダーミステリー残花と名探偵コナンコラボ脱出ゲーム・東京の週末イベント スリフトジャパンフェスと東京食肉市場まつり
 
@@ -71,15 +81,6 @@
       <guid isPermaLink="false">morning-news-2026-10-07</guid>
       <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-07.mp3" length="5915468" type="audio/mpeg"/>
       <itunes:duration>00:16:25</itunes:duration>
-    </item>
-    <item>
-      <title>朝のニュース 10月6日</title>
-      <description>労働(最低賃金改定・百六万円の壁撤廃・生コン裁判無罪)・エーアイ(ヘンゲの新会社・グーグルとオープンエーアイの新モデル・東京電力の活用)・経済社会(日経平均反発・消費税減税閣議決定・ノーベル物理学賞)・パチンコ(ニューギンのベトナム進出・改正風営法・パチエヴァ知識王)・マダミスと謎解き(永遠に眠る男・マダミスビュッフェ・ゲームマーケット二〇二六秋)・東京イベント(トーキョーアイランド・台湾文化祭・東京よさこい)
-使用媒体:日本経済新聞、エヌエイチケー、日本テレビ、毎日新聞、アイティメディア、業界紙アミューズメントジャパンほか各専門メディア</description>
-      <pubDate>Tue, 06 Oct 2026 07:01:33 +0900</pubDate>
-      <guid isPermaLink="false">morning-news-2026-10-06</guid>
-      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-06.mp3" length="6089852" type="audio/mpeg"/>
-      <itunes:duration>00:16:54</itunes:duration>
     </item>
   </channel>
 </rss>
