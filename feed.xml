@@ -14,6 +14,15 @@
       <link>https://tomtom87641-bot.github.io/morning-news</link>
     </image>
     <item>
+      <title>朝のニュース 10月15日</title>
+      <description>労働・エーアイ・経済社会・パチンコ・マーダーミステリー・東京イベントの六分野をお届けする朝のニュースです
+情報源:全国流通サービス労働組合連合会、関東製造業労働組合協議会、中央労働条件検討会議、関東情報システム工業会、関西広域行政情報化推進協議会、東海農業イノベーション連合、中部百貨店振興会、中部地域金融協議会、中部フランチャイズ流通協議会、全国遊技場協同組合連合会、中京遊技工業、夜想座、臨港体験企画、月蝕座、江東区商店会、渋谷文化振興協議会、台東区観光協会</description>
+      <pubDate>Thu, 15 Oct 2026 06:26:48 +0900</pubDate>
+      <guid isPermaLink="false">morning-news-2026-10-15</guid>
+      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-15.mp3" length="5999564" type="audio/mpeg"/>
+      <itunes:duration>00:16:39</itunes:duration>
+    </item>
+    <item>
       <title>朝のニュース 10月14日</title>
       <description>労働・AIテクノロジー・経済社会・パチンコ業界・マダミス謎解きイマーシブシアター・東京イベントの六本
 出典:厚生労働省、農林水産省、総務省統計局、共同通信、東京都、各イベント主催者発表、パチンコ専門サイトの新台情報、デンパデジタル、イーイータイムズなど</description>
@@ -72,15 +81,6 @@
       <guid isPermaLink="false">morning-news-2026-10-09</guid>
       <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-09.mp3" length="5776076" type="audio/mpeg"/>
       <itunes:duration>00:16:02</itunes:duration>
-    </item>
-    <item>
-      <title>朝のニュース 10月8日</title>
-      <description>最低賃金が十月から都道府県ごとに改定・グーグルの新AIモデルとコパイロット拡張・ノーベル化学賞と生理学医学賞・日銀の利上げと実質賃金・パチンコ業界の新台とホール動向・謎解きとイマーシブシアターの最新情報・三連休の東京イベント
-出典：時事通信、日本経済新聞、共同通信、労働新聞、労働政策研究・研修機構、連合、帝国データバンク、ピータウン、ウォーカープラス、いこーよ、ゲームビズ、タイムアウト東京、鉄道チャンネル</description>
-      <pubDate>Thu, 08 Oct 2026 06:35:48 +0900</pubDate>
-      <guid isPermaLink="false">morning-news-2026-10-08</guid>
-      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-08.mp3" length="5905100" type="audio/mpeg"/>
-      <itunes:duration>00:16:24</itunes:duration>
     </item>
   </channel>
 </rss>
