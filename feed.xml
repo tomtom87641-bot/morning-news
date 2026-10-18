@@ -14,6 +14,20 @@
       <link>https://tomtom87641-bot.github.io/morning-news</link>
     </image>
     <item>
+      <title>朝のニュース 十月十九日</title>
+      <description>労働・連合の賃金レポートと労働条件分科会の議論
+AI・AIガバナンス協業とサイバー勧告、グーグルの新モデル
+経済・TSMC熊本工場の計画認定、消費税減税法案と新給付制度
+パチンコ・松原興産の業態転換と新台情報
+マダミス・謎解き・東京ミステリーサーカスの新作と新宿の謎解きラリー
+東京イベント・東京湾大華火祭、なかの東北絆まつり、高円寺フェス
+出典:連合、厚生労働省、業界紙、NTTドコモビジネス、日本IBM、海外メディア、経済産業省、共同通信、専門サイト、制作会社、新宿区、各イベント主催者</description>
+      <pubDate>Mon, 19 Oct 2026 06:31:48 +0900</pubDate>
+      <guid isPermaLink="false">morning-news-2026-10-19</guid>
+      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-19.mp3" length="5796524" type="audio/mpeg"/>
+      <itunes:duration>00:16:05</itunes:duration>
+    </item>
+    <item>
       <title>朝のニュース 十月十八日</title>
       <description>労働・裁量労働制の見直し議論と最低賃金発効日の整理・外国人労働の育成就労制度 / エーアイ・アンソロピック創業者インタビューとAI悪用のサイバー攻撌・オープンエーアイ提訴・JR西日本の経営層AI活用 / 経済・イエローハット情報流出確定・日銀植田総裁発言・国際決済銀行のAI株警告・ニデック株主代表訴訟 / パチンコ新台情報 / マダミス・謎解き新作 / 東京の週末イベント
 
@@ -68,16 +82,6 @@
       <guid isPermaLink="false">morning-news-2026-10-13</guid>
       <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-13.mp3" length="5670956" type="audio/mpeg"/>
       <itunes:duration>00:15:45</itunes:duration>
-    </item>
-    <item>
-      <title>朝のニュース 10月12日</title>
-      <description>最低賃金の順次切り替えと書類送検の増加・デジタル庁の国産AI実証実験とNEC×アンソロピック・臨時国会の所信表明と電気ガス補助終了・パチンコ新機種 獣王と聖闘士星矢黄金十二宮・マーダーミステリー残花と名探偵コナンコラボ脱出ゲーム・東京の週末イベント スリフトジャパンフェスと東京食肉市場まつり
-
-出典 共同通信、厚生労働省、労働新聞、経団連、さきがけ、北海道新聞、資源エネルギー庁、INSIDE、ウォーカープラス、いこーよ、パチセブン、ピータウンなど</description>
-      <pubDate>Mon, 12 Oct 2026 06:36:23 +0900</pubDate>
-      <guid isPermaLink="false">morning-news-2026-10-12</guid>
-      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-12.mp3" length="5704364" type="audio/mpeg"/>
-      <itunes:duration>00:15:50</itunes:duration>
     </item>
   </channel>
 </rss>
