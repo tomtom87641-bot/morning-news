@@ -14,6 +14,16 @@
       <link>https://tomtom87641-bot.github.io/morning-news</link>
     </image>
     <item>
+      <title>朝のニュース 10月20日</title>
+      <description>労働(最低賃金の目安制度見直しと発効日論点、育成就労制度の施行準備)・エーアイ(相次ぐ不正アクセスとエーアイ悪用の可能性、データセンター企業の社債急落)・経済社会(消費税減税法案の審議入り、日経平均の急落)
+パチンコ(推しの日の継続方針、京楽産業のソードアート新機種)・マダミス謎解き(名探偵コナンのリアル脱出ゲーム東京会場が終了間近)・東京イベント(下北沢カレーフェスティバル、オクトーバーフェスト、六義園の紅葉ライトアップ)
+参考媒体:労働新聞、エヌエイチケー、東京商工リサーチ、共同通信、出入国在留管理庁、各専門サイト、各制作会社・主催者発表、東京都公園協会</description>
+      <pubDate>Tue, 20 Oct 2026 06:29:27 +0900</pubDate>
+      <guid isPermaLink="false">morning-news-2026-10-20</guid>
+      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-20.mp3" length="5610188" type="audio/mpeg"/>
+      <itunes:duration>00:15:34</itunes:duration>
+    </item>
+    <item>
       <title>朝のニュース 十月十九日</title>
       <description>労働・連合の賃金レポートと労働条件分科会の議論
 AI・AIガバナンス協業とサイバー勧告、グーグルの新モデル
@@ -72,16 +82,6 @@ AI・AIガバナンス協業とサイバー勧告、グーグルの新モデル
       <guid isPermaLink="false">morning-news-2026-10-14</guid>
       <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-14.mp3" length="5777660" type="audio/mpeg"/>
       <itunes:duration>00:16:02</itunes:duration>
-    </item>
-    <item>
-      <title>朝のニュース 10月13日</title>
-      <description>十月十三日の朝のニュースです。労働・AIテクノロジー・経済社会・パチンコ業界・マダミスと謎解き・東京のイベントの六分野をお届けします。
-・フリーランス新法の実施状況と外国人雇用実態調査・サカナAIと住友商事グループの提携、ギークプラスのヒューマノイド披露・全国消費者物価指数と景気拡大をめぐる分析・業界団体の新しい遊技機区分とマイジャグラーシックス導入・推理ボードゲームとナゾトキマーケット・東京スカイツリータウンのオクトーバーフェストと東京国際映画祭、デザインフェスタ
-使用した媒体・出典:連合、フリーランス協会、厚生労働省、住友商事、モノイスト、総務省統計局、帝国データバンク、大和総研、業界メディア、専門サイトの新台情報、各製作会社・主催者の発表</description>
-      <pubDate>Tue, 13 Oct 2026 06:33:19 +0900</pubDate>
-      <guid isPermaLink="false">morning-news-2026-10-13</guid>
-      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-13.mp3" length="5670956" type="audio/mpeg"/>
-      <itunes:duration>00:15:45</itunes:duration>
     </item>
   </channel>
 </rss>
