@@ -14,6 +14,15 @@
       <link>https://tomtom87641-bot.github.io/morning-news</link>
     </image>
     <item>
+      <title>朝のニュース 10月22日</title>
+      <description>労働・最低賃金発効日の後ろ倒しとカスハラ対策義務化・エーアイとソフトバンク系クラウド情報漏えい・消費税減税法案と株価、台風三十号、体操世界選手権・パチンコ新台とホール数動向・マダミス作者不詳と新作脱出ゲーム・東京の週末イベント三選
+出典：厚生労働省、共同通信、ソフトバンクグループ、各社発表、気象情報会社、専門サイトの新台情報、業界セミナー、業界調査会社、制作会社・運営会社の発表、タイムアウト東京</description>
+      <pubDate>Thu, 22 Oct 2026 06:26:46 +0900</pubDate>
+      <guid isPermaLink="false">morning-news-2026-10-22</guid>
+      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-22.mp3" length="5664476" type="audio/mpeg"/>
+      <itunes:duration>00:15:43</itunes:duration>
+    </item>
+    <item>
       <title>朝のニュース 10月21日</title>
       <description>労働条件分科会の議論と連合中央委員会・個人情報保護委員会の注意喚起と相次ぐ情報漏えい・消費税減税法案の審議入りと日経平均の反発、TSMC熊本工場・マイジャグラーシックスなど新台情報とパチンコ各社の動き・ナゾトキマーケットとマダミス新劇場マイマイ・東京ナイトマーケットやナンジャ怨霊フェスなど週末イベント
 
@@ -74,15 +83,6 @@ AI・AIガバナンス協業とサイバー勧告、グーグルの新モデル
       <guid isPermaLink="false">morning-news-2026-10-16</guid>
       <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-16.mp3" length="5843756" type="audio/mpeg"/>
       <itunes:duration>00:16:13</itunes:duration>
-    </item>
-    <item>
-      <title>朝のニュース 10月15日</title>
-      <description>労働・エーアイ・経済社会・パチンコ・マーダーミステリー・東京イベントの六分野をお届けする朝のニュースです
-情報源:全国流通サービス労働組合連合会、関東製造業労働組合協議会、中央労働条件検討会議、関東情報システム工業会、関西広域行政情報化推進協議会、東海農業イノベーション連合、中部百貨店振興会、中部地域金融協議会、中部フランチャイズ流通協議会、全国遊技場協同組合連合会、中京遊技工業、夜想座、臨港体験企画、月蝕座、江東区商店会、渋谷文化振興協議会、台東区観光協会</description>
-      <pubDate>Thu, 15 Oct 2026 06:26:48 +0900</pubDate>
-      <guid isPermaLink="false">morning-news-2026-10-15</guid>
-      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-15.mp3" length="5999564" type="audio/mpeg"/>
-      <itunes:duration>00:16:39</itunes:duration>
     </item>
   </channel>
 </rss>
