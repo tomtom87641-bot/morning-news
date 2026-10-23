@@ -14,6 +14,15 @@
       <link>https://tomtom87641-bot.github.io/morning-news</link>
     </image>
     <item>
+      <title>朝のニュース 十月二十四日</title>
+      <description>労働・AIとテクノロジー・経済と社会・パチンコ業界・マダミスと謎解き・東京のイベントをお届けします
+出典：連合、厚生労働省、各社・自治体の発表、経済産業省、共同通信、帝国データバンク、報道各社、業界団体、制作会社、運営会社、東京都、新宿区</description>
+      <pubDate>Sat, 24 Oct 2026 06:29:12 +0900</pubDate>
+      <guid isPermaLink="false">morning-news-2026-10-24</guid>
+      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-24.mp3" length="5836412" type="audio/mpeg"/>
+      <itunes:duration>00:16:12</itunes:duration>
+    </item>
+    <item>
       <title>朝のニュース 10月23日</title>
       <description>労働・AIとテクノロジー・経済と社会・パチンコ業界・マダミスと謎解き・東京のイベントをお届けします。
 使用媒体：厚生労働省、内閣府、共同通信、報道各社、気象情報各社、専門サイト、主催団体・主催者・制作会社・主催施設の各発表、労政ジャーナリストの報道</description>
@@ -73,15 +82,6 @@ AI・AIガバナンス協業とサイバー勧告、グーグルの新モデル
       <pubDate>Sun, 18 Oct 2026 06:27:21 +0900</pubDate>
       <guid isPermaLink="false">morning-news-2026-10-18</guid>
       <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-18.mp3" length="5673836" type="audio/mpeg"/>
-      <itunes:duration>00:15:45</itunes:duration>
-    </item>
-    <item>
-      <title>朝のニュース 10月17日</title>
-      <description>労働はカスタマーハラスメント対策の義務化とフリーランスの労働組合加入・AIは高市首相のAI行動計画とAIの雇用影響調査・経済は鉱工業生産指数と貿易統計、企業物価指数・パチンコは新機種とパチエヴァ知識王・マダミスは乱歩フェスとレイトン教授コラボ・東京イベントはスリフトジャパンフェスとハロウィンの催し
-出典:厚生労働省、労働政策研究・研修機構、連合、共同通信、エクサウィザーズ、日本生産性本部、経済産業省、財務省、日本銀行、専門サイトの新台情報、各イベント主催者</description>
-      <pubDate>Sat, 17 Oct 2026 06:36:15 +0900</pubDate>
-      <guid isPermaLink="false">morning-news-2026-10-17</guid>
-      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-17.mp3" length="5672972" type="audio/mpeg"/>
       <itunes:duration>00:15:45</itunes:duration>
     </item>
   </channel>
