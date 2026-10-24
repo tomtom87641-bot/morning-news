@@ -14,6 +14,16 @@
       <link>https://tomtom87641-bot.github.io/morning-news</link>
     </image>
     <item>
+      <title>朝のニュース 十月二十五日</title>
+      <description>最低賃金の発効状況や育成就労制度の周知・シーテックでのロボット展示とヤマト運輸の情報漏えい・皇室典範の施行とビール大手四社への強制調査・パチンコの新台情報とホールの業態転換・マダミストリートの締め切りと新作脱出ゲーム・東京味わいフェスタ最終日と東京大茶会
+
+出典：厚生労働省、出入国在留管理庁、労働新聞、報道各社、ヤマト運輸、共同通信、気象情報各社、専門サイト、業界専門メディア、日本マーダーミステリー作家協会、スクラップ、東京都、各主催者</description>
+      <pubDate>Sun, 25 Oct 2026 06:27:08 +0900</pubDate>
+      <guid isPermaLink="false">morning-news-2026-10-25</guid>
+      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-25.mp3" length="5768300" type="audio/mpeg"/>
+      <itunes:duration>00:16:01</itunes:duration>
+    </item>
+    <item>
       <title>朝のニュース 十月二十四日</title>
       <description>労働・AIとテクノロジー・経済と社会・パチンコ業界・マダミスと謎解き・東京のイベントをお届けします
 出典：連合、厚生労働省、各社・自治体の発表、経済産業省、共同通信、帝国データバンク、報道各社、業界団体、制作会社、運営会社、東京都、新宿区</description>
@@ -73,16 +83,6 @@ AI・AIガバナンス協業とサイバー勧告、グーグルの新モデル
       <guid isPermaLink="false">morning-news-2026-10-19</guid>
       <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-19.mp3" length="5796524" type="audio/mpeg"/>
       <itunes:duration>00:16:05</itunes:duration>
-    </item>
-    <item>
-      <title>朝のニュース 十月十八日</title>
-      <description>労働・裁量労働制の見直し議論と最低賃金発効日の整理・外国人労働の育成就労制度 / エーアイ・アンソロピック創業者インタビューとAI悪用のサイバー攻撌・オープンエーアイ提訴・JR西日本の経営層AI活用 / 経済・イエローハット情報流出確定・日銀植田総裁発言・国際決済銀行のAI株警告・ニデック株主代表訴訟 / パチンコ新台情報 / マダミス・謎解き新作 / 東京の週末イベント
-
-使用媒体：エヌエイチケー、イエローハット発表、国際決済銀行報告書、出入国在留管理庁資料、自民党提言および厚生労働省審議会資料、複数の経済メディア、専門サイトの新台情報、各イベント主催者発表</description>
-      <pubDate>Sun, 18 Oct 2026 06:27:21 +0900</pubDate>
-      <guid isPermaLink="false">morning-news-2026-10-18</guid>
-      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-18.mp3" length="5673836" type="audio/mpeg"/>
-      <itunes:duration>00:15:45</itunes:duration>
     </item>
   </channel>
 </rss>
