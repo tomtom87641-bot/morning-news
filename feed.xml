@@ -14,6 +14,15 @@
       <link>https://tomtom87641-bot.github.io/morning-news</link>
     </image>
     <item>
+      <title>朝のニュース 10月30日</title>
+      <description>最低賃金の全国概況と育成就労制度の更新・サカナAIとトヨタのロボット、半導体ラピダスへの追加出資・訪日外国人消費と企業倒産、高市首相の物価高対策・ウマ娘パチスロ発表会とホール閉店・ナゾトキマーケットと謎解き新作・池袋ハロウィンと東京の週末イベント
+使った媒体・出典：厚生労働省、労働政策研究・研修機構、出入国在留管理庁、サカナAI、専門メディア報道、経済産業省、内閣府、観光庁、共同通信、東京商工リサーチ、業界専門メディア、各イベント主催者・運営会社の発表</description>
+      <pubDate>Fri, 30 Oct 2026 06:32:33 +0900</pubDate>
+      <guid isPermaLink="false">morning-news-2026-10-30</guid>
+      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-30.mp3" length="5731868" type="audio/mpeg"/>
+      <itunes:duration>00:15:55</itunes:duration>
+    </item>
+    <item>
       <title>朝のニュース 10月29日</title>
       <description>労働・カスハラ防止義務化とUAゼンセンの賃上げ要求・AIとKDDI SUMMITやアンソロピックの動き・日経平均続伸と物価・パチンコ業界の話題・マダミス専門店の展開・東京のラーメンフェスタと特別展
 
@@ -69,15 +78,6 @@
       <guid isPermaLink="false">morning-news-2026-10-24</guid>
       <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-24.mp3" length="5836412" type="audio/mpeg"/>
       <itunes:duration>00:16:12</itunes:duration>
-    </item>
-    <item>
-      <title>朝のニュース 10月23日</title>
-      <description>労働・AIとテクノロジー・経済と社会・パチンコ業界・マダミスと謎解き・東京のイベントをお届けします。
-使用媒体：厚生労働省、内閣府、共同通信、報道各社、気象情報各社、専門サイト、主催団体・主催者・制作会社・主催施設の各発表、労政ジャーナリストの報道</description>
-      <pubDate>Fri, 23 Oct 2026 06:29:15 +0900</pubDate>
-      <guid isPermaLink="false">morning-news-2026-10-23</guid>
-      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-23.mp3" length="5823452" type="audio/mpeg"/>
-      <itunes:duration>00:16:10</itunes:duration>
     </item>
   </channel>
 </rss>
