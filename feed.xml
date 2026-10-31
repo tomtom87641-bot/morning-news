@@ -14,6 +14,15 @@
       <link>https://tomtom87641-bot.github.io/morning-news</link>
     </image>
     <item>
+      <title>朝のニュース 11月1日</title>
+      <description>労働の賃上げと労働基準法見直し・エーアイ活用の広がり・経済社会の消費動向・パチンコ業界の動き・マダミスとイマーシブシアターの新作・東京の週末イベント
+出典：厚生労働省、文部科学省、内閣府、総務省、日本銀行、全国中小企業労働組合連合会、国立先端情報技術研究所、産業エーアイ推進協議会、日本遊技産業振興連盟ほか各団体の発表</description>
+      <pubDate>Sun, 01 Nov 2026 06:18:19 +0900</pubDate>
+      <guid isPermaLink="false">morning-news-2026-11-01</guid>
+      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-11-01.mp3" length="5727404" type="audio/mpeg"/>
+      <itunes:duration>00:15:54</itunes:duration>
+    </item>
+    <item>
       <title>朝のニュース 10月31日</title>
       <description>労働：最低賃金法違反の送検・労働者派遣許可取消・9月雇用統計 / AI：NTT×SAP連携・NTTドコモANCAR拡充・Siri AI日本語版 / 経済：日銀金融政策決定会合・GDP見通し・キオクシア決算
 パチンコ：レジャー白書2026・サミー京楽平和の新台 / マダミス：シネマダミス第4回・イマーシブ再演・謎解き企画 / 東京イベント：としまストリートフェス・東京蚤の市・マレーシアフェア
@@ -69,16 +78,6 @@
       <guid isPermaLink="false">morning-news-2026-10-26</guid>
       <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-26.mp3" length="5777660" type="audio/mpeg"/>
       <itunes:duration>00:16:02</itunes:duration>
-    </item>
-    <item>
-      <title>朝のニュース 十月二十五日</title>
-      <description>最低賃金の発効状況や育成就労制度の周知・シーテックでのロボット展示とヤマト運輸の情報漏えい・皇室典範の施行とビール大手四社への強制調査・パチンコの新台情報とホールの業態転換・マダミストリートの締め切りと新作脱出ゲーム・東京味わいフェスタ最終日と東京大茶会
-
-出典：厚生労働省、出入国在留管理庁、労働新聞、報道各社、ヤマト運輸、共同通信、気象情報各社、専門サイト、業界専門メディア、日本マーダーミステリー作家協会、スクラップ、東京都、各主催者</description>
-      <pubDate>Sun, 25 Oct 2026 06:27:08 +0900</pubDate>
-      <guid isPermaLink="false">morning-news-2026-10-25</guid>
-      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-25.mp3" length="5768300" type="audio/mpeg"/>
-      <itunes:duration>00:16:01</itunes:duration>
     </item>
   </channel>
 </rss>
