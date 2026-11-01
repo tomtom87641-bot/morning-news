@@ -14,6 +14,16 @@
       <link>https://tomtom87641-bot.github.io/morning-news</link>
     </image>
     <item>
+      <title>朝のニュース 11月2日</title>
+      <description>労働・AIとテクノロジー・経済と社会・パチンコ業界・マダミスと謎解き・東京のイベントの六分野
+連合の春闘方針、愛媛県最低賃金の発効、トヨタの上半期世界販売、東京商工リサーチの倒産集計、酉の市や六本木ヒルズのイルミネーションなどをお届けします
+出典：連合、愛媛労働局、LYコーポレーション、楽天グループ、共同通信、日本政府観光局、農林水産省、東京商工リサーチ、業界専門メディア、各イベント主催者</description>
+      <pubDate>Mon, 02 Nov 2026 06:27:54 +0900</pubDate>
+      <guid isPermaLink="false">morning-news-2026-11-02</guid>
+      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-11-02.mp3" length="5665052" type="audio/mpeg"/>
+      <itunes:duration>00:15:44</itunes:duration>
+    </item>
+    <item>
       <title>朝のニュース 11月1日</title>
       <description>労働の賃上げと労働基準法見直し・エーアイ活用の広がり・経済社会の消費動向・パチンコ業界の動き・マダミスとイマーシブシアターの新作・東京の週末イベント
 出典：厚生労働省、文部科学省、内閣府、総務省、日本銀行、全国中小企業労働組合連合会、国立先端情報技術研究所、産業エーアイ推進協議会、日本遊技産業振興連盟ほか各団体の発表</description>
@@ -68,16 +78,6 @@
       <guid isPermaLink="false">morning-news-2026-10-27</guid>
       <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-27.mp3" length="5665628" type="audio/mpeg"/>
       <itunes:duration>00:15:44</itunes:duration>
-    </item>
-    <item>
-      <title>朝のニュース 十月二十六日</title>
-      <description>労働・エーアイ・テクノロジー・経済社会・パチンコ・マダミス・東京イベントの六分野をお届けします。
-・最低賃金の発効継続と外国人労働者数の記録 ・政府のエーアイ導入加速会議と情報漏えいの広がり ・消費税率引き下げ法案の進捗と値上げラッシュ ・来月のパチンコ新台情報 ・マダミスと脱出ゲームの最新情報 ・来月末の東京のイベント情報
-出典:厚生労働省、連合、共同通信、帝国データバンク、東京商工リサーチ、日刊工業新聞、野村総合研究所、各業界専門メディア、各主催者の発表</description>
-      <pubDate>Mon, 26 Oct 2026 06:30:31 +0900</pubDate>
-      <guid isPermaLink="false">morning-news-2026-10-26</guid>
-      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-26.mp3" length="5777660" type="audio/mpeg"/>
-      <itunes:duration>00:16:02</itunes:duration>
     </item>
   </channel>
 </rss>
