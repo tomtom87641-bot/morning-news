@@ -14,6 +14,21 @@
       <link>https://tomtom87641-bot.github.io/morning-news</link>
     </image>
     <item>
+      <title>朝のニュース 11月5日</title>
+      <description>労働・エーアイ・経済と社会・パチンコ業界・マダミスと謎解き・東京のイベントの話題をお届けします。
+・労働:ユーアイゼンセンの2027春闘要求、自動車工業会の稼働日程見直し、介護報酬の引き上げ
+・エーアイ:富士通の小売向けAIエージェント、AI法見直しの議論、NECとAnthropicの協業
+・経済と社会:毎月勤労統計、パナソニックホールディングスの決算、ガソリン価格
+・パチンコ:サミーの新台、コトブキプラスの閉店、マルハンのインドアゴルフ練習場
+・マダミスと謎解き:としまミステリーウォーク、港区の水辺謎解き、お台場の謎解き企画
+・東京イベント:東京スカイツリータウンのクリスマスマーケット、ZEN NIGHT TOKYO
+使用した媒体:労働専門紙、厚生労働省、経済産業省、総務省、富士通、パナソニックホールディングス、NEC、各業界専門メディア、各施設・主催者の案内情報</description>
+      <pubDate>Thu, 05 Nov 2026 06:28:55 +0900</pubDate>
+      <guid isPermaLink="false">morning-news-2026-11-05</guid>
+      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-11-05.mp3" length="5873420" type="audio/mpeg"/>
+      <itunes:duration>00:16:18</itunes:duration>
+    </item>
+    <item>
       <title>朝のニュース 11月4日</title>
       <description>労働・連合の中期目標と最低賃金・エーアイ基本計画とウェイブ提携・日銀の政策金利据え置き・パチンコ新台と業界動向・マダミストリートと黒ねこ座・東京の一の酉と冬のイルミネーション
 出典：連合、労働新聞、厚生労働省、経団連、東京商工リサーチ、日本銀行報道、日産自動車、ソフトバンクグループ報道、業界専門メディア、日本遊技関連事業協会、プレスリリース、日本マーダーミステリー作家協会、各種施設案内</description>
@@ -70,16 +85,6 @@
       <guid isPermaLink="false">morning-news-2026-10-30</guid>
       <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-30.mp3" length="5731868" type="audio/mpeg"/>
       <itunes:duration>00:15:55</itunes:duration>
-    </item>
-    <item>
-      <title>朝のニュース 10月29日</title>
-      <description>労働・カスハラ防止義務化とUAゼンセンの賃上げ要求・AIとKDDI SUMMITやアンソロピックの動き・日経平均続伸と物価・パチンコ業界の話題・マダミス専門店の展開・東京のラーメンフェスタと特別展
-
-出典：労働新聞社、厚生労働省、全労連、東京商工リサーチ、パーソル総合研究所、共同通信、KDDI、ITmedia、プリファード・ネットワークス、PwC Japan、報道各社、総務省、サミー、国立科学博物館、各主催者の発表</description>
-      <pubDate>Thu, 29 Oct 2026 06:32:30 +0900</pubDate>
-      <guid isPermaLink="false">morning-news-2026-10-29</guid>
-      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-29.mp3" length="5628476" type="audio/mpeg"/>
-      <itunes:duration>00:15:37</itunes:duration>
     </item>
   </channel>
 </rss>
