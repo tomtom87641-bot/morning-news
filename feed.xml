@@ -14,6 +14,18 @@
       <link>https://tomtom87641-bot.github.io/morning-news</link>
     </image>
     <item>
+      <title>朝のニュース 11月6日</title>
+      <description>労働:全労連2027春闘要求・経団連経労委報告原案・人手不足関連倒産が上半期最多
+AI/経済:AIデジタル改革推進会議発足・JERA千葉データセンター計画・企業倒産13年ぶり高水準・訪日外国人消費額が最高・家計調査9か月連続減
+パチンコ/謎解き/東京:新台イーとある魔術の禁書目録3・サンキョーがA-gon子会社化・ナゾトキマーケット2026・六本木けやき坂と丸の内と六義園のイルミネーション
+
+出典:労働新聞各紙報道、経団連・全労連発表、東京商工リサーチ、観光庁、総務省、政府発表、業界専門メディア、各イベント主催者・施設の案内情報、東京都公園協会</description>
+      <pubDate>Fri, 06 Nov 2026 06:28:59 +0900</pubDate>
+      <guid isPermaLink="false">morning-news-2026-11-06</guid>
+      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-11-06.mp3" length="5800268" type="audio/mpeg"/>
+      <itunes:duration>00:16:06</itunes:duration>
+    </item>
+    <item>
       <title>朝のニュース 11月5日</title>
       <description>労働・エーアイ・経済と社会・パチンコ業界・マダミスと謎解き・東京のイベントの話題をお届けします。
 ・労働:ユーアイゼンセンの2027春闘要求、自動車工業会の稼働日程見直し、介護報酬の引き上げ
@@ -76,15 +88,6 @@
       <guid isPermaLink="false">morning-news-2026-10-31</guid>
       <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-31.mp3" length="5726540" type="audio/mpeg"/>
       <itunes:duration>00:15:54</itunes:duration>
-    </item>
-    <item>
-      <title>朝のニュース 10月30日</title>
-      <description>最低賃金の全国概況と育成就労制度の更新・サカナAIとトヨタのロボット、半導体ラピダスへの追加出資・訪日外国人消費と企業倒産、高市首相の物価高対策・ウマ娘パチスロ発表会とホール閉店・ナゾトキマーケットと謎解き新作・池袋ハロウィンと東京の週末イベント
-使った媒体・出典：厚生労働省、労働政策研究・研修機構、出入国在留管理庁、サカナAI、専門メディア報道、経済産業省、内閣府、観光庁、共同通信、東京商工リサーチ、業界専門メディア、各イベント主催者・運営会社の発表</description>
-      <pubDate>Fri, 30 Oct 2026 06:32:33 +0900</pubDate>
-      <guid isPermaLink="false">morning-news-2026-10-30</guid>
-      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-10-30.mp3" length="5731868" type="audio/mpeg"/>
-      <itunes:duration>00:15:55</itunes:duration>
     </item>
   </channel>
 </rss>
