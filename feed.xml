@@ -14,6 +14,15 @@
       <link>https://tomtom87641-bot.github.io/morning-news</link>
     </image>
     <item>
+      <title>朝のニュース 11月10日</title>
+      <description>労働は定年後再雇用拒否訴訟とUAゼンセンの特定最低賃金申出・AIはラインヤフー、ソフトバンク、エヌイーシーの新サービス・経済は食料品消費税の減税法案とコメ価格の動き、日銀の主な意見・パチンコはサンキョーの子会社化と新台情報・マダミスと謎解きはレイトン教授の企画とパンジャ王国展・東京のイベントは代々木公園のスペインの祭りと立川のマルシェなど
+出典 労働新聞 厚生労働省 ソフトバンク エヌイーシー 農林水産省 日本銀行 業界専門メディア 各イベント主催者の発表</description>
+      <pubDate>Tue, 10 Nov 2026 06:35:52 +0900</pubDate>
+      <guid isPermaLink="false">morning-news-2026-11-10</guid>
+      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-11-10.mp3" length="5665484" type="audio/mpeg"/>
+      <itunes:duration>00:15:44</itunes:duration>
+    </item>
+    <item>
       <title>朝のニュース 11月9日</title>
       <description>労働・最低賃金制度見直しと外国人労働者最多・エーアイのジェミニ新機能とプリファードネットワークスの液冷データセンター・トヨタ中間決算と十月新車販売・パチンコ新機種二種と豊丸産業事業停止・渋谷の謎解き企画・代々木や丸の内、東京ミッドタウンのイベント情報
 出典：厚生労働省、公正取引委員会、トヨタ自動車、自動車販売の業界団体、業界専門メディア、各イベント主催者発表、各種報道</description>
@@ -76,17 +85,6 @@ AI/経済:AIデジタル改革推進会議発足・JERA千葉データセンタ�
       <guid isPermaLink="false">morning-news-2026-11-04</guid>
       <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-11-04.mp3" length="5759948" type="audio/mpeg"/>
       <itunes:duration>00:15:59</itunes:duration>
-    </item>
-    <item>
-      <title>朝のニュース 11月3日</title>
-      <description>労働:京都の最低賃金改定・過労死白書・カスハラ対策義務化 / エーアイ:大阪データセンター協議・教育AIサミット・KDDIサミット / 経済:鉱工業生産・貿易統計・企業物価指数・半導体工場投資
-パチンコ新台:聖闘士星矢黄金十二宮・桃太郎電鉄・仮面ライダーBLACK / マダミス・謎解き:残花・うみねこコラボ・東京メトロ異失物係 / 東京イベント:文化の日無料開放・東京国際映画祭・大江戸骨董市
-
-出典:京都労働局、厚生労働省、日本経済新聞、教育AI活用協会、KDDI、SEMI、経済産業省、財務省、日本銀行、日本政府、業界専門メディア、アディス、よだかのレコード、東京メトロ、各主催者の発表</description>
-      <pubDate>Tue, 03 Nov 2026 06:34:11 +0900</pubDate>
-      <guid isPermaLink="false">morning-news-2026-11-03</guid>
-      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-11-03.mp3" length="5857724" type="audio/mpeg"/>
-      <itunes:duration>00:16:16</itunes:duration>
     </item>
   </channel>
 </rss>
