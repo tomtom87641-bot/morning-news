@@ -14,6 +14,16 @@
       <link>https://tomtom87641-bot.github.io/morning-news</link>
     </image>
     <item>
+      <title>朝のニュース 11月12日</title>
+      <description>労働：連合の2027春闘基本構想・地域別最低賃金改定・毎月勤労統計調査9月分・過労死等防止啓発月間 / AI・経済：富士通モナカサーバー・AI法見直し議論・Anthropicの上場申請・AIクロール拒否の共通枠組み・冬のボーナス予想・東京都区部CPI・GDP一次速報の予想・サイバーセキュリティ緊急対策パッケージ / パチンコ・マダミス・東京イベント：大都技研とビスティの新台・ナゾトキマーケット2026・名探偵プリキュアコラボ企画・日比谷と京橋のイルミネーション・東京都美術館のオルセー展
+
+出典：連合、厚生労働省、総務省、富士通、政府発表、報道各社、労務行政研究所、三菱UFJリサーチ&amp;コンサルティング、第一生命経済研究所、大和総研、業界専門メディア、各イベント主催者発表</description>
+      <pubDate>Thu, 12 Nov 2026 06:27:04 +0900</pubDate>
+      <guid isPermaLink="false">morning-news-2026-11-12</guid>
+      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-11-12.mp3" length="5977100" type="audio/mpeg"/>
+      <itunes:duration>00:16:36</itunes:duration>
+    </item>
+    <item>
       <title>朝のニュース 11月11日</title>
       <description>労働・エーアイ・経済・パチンコ・マダミスとイマーシブ・東京イベントの六分野をお届けします。
 ・労働:エヌティティグループの新人事制度、盛岡労基署の安全対策月間、船員の職業紹介
@@ -76,21 +86,6 @@ AI/経済:AIデジタル改革推進会議発足・JERA千葉データセンタ�
       <guid isPermaLink="false">morning-news-2026-11-06</guid>
       <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-11-06.mp3" length="5800268" type="audio/mpeg"/>
       <itunes:duration>00:16:06</itunes:duration>
-    </item>
-    <item>
-      <title>朝のニュース 11月5日</title>
-      <description>労働・エーアイ・経済と社会・パチンコ業界・マダミスと謎解き・東京のイベントの話題をお届けします。
-・労働:ユーアイゼンセンの2027春闘要求、自動車工業会の稼働日程見直し、介護報酬の引き上げ
-・エーアイ:富士通の小売向けAIエージェント、AI法見直しの議論、NECとAnthropicの協業
-・経済と社会:毎月勤労統計、パナソニックホールディングスの決算、ガソリン価格
-・パチンコ:サミーの新台、コトブキプラスの閉店、マルハンのインドアゴルフ練習場
-・マダミスと謎解き:としまミステリーウォーク、港区の水辺謎解き、お台場の謎解き企画
-・東京イベント:東京スカイツリータウンのクリスマスマーケット、ZEN NIGHT TOKYO
-使用した媒体:労働専門紙、厚生労働省、経済産業省、総務省、富士通、パナソニックホールディングス、NEC、各業界専門メディア、各施設・主催者の案内情報</description>
-      <pubDate>Thu, 05 Nov 2026 06:28:55 +0900</pubDate>
-      <guid isPermaLink="false">morning-news-2026-11-05</guid>
-      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-11-05.mp3" length="5873420" type="audio/mpeg"/>
-      <itunes:duration>00:16:18</itunes:duration>
     </item>
   </channel>
 </rss>
