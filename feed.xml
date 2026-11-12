@@ -14,6 +14,14 @@
       <link>https://tomtom87641-bot.github.io/morning-news</link>
     </image>
     <item>
+      <title>朝のニュース 11月13日</title>
+      <description>労働:ユーアーゼンセンの賃上げ総括とカスハラ対策の論点、山梨県の賃上げ支援金・エーアイ:オープンエーアイの新サイバーモデルとマイクロソフトのコパイロット利用制限、グーグルのジェムズ終了・経済:消費税減税法案の衆院通過、日経平均の反発、訪日客消費動向・パチンコ新台、マダミスとイマーシブシアター、東京の冬のイベント情報。出典:労働新聞、連合、山梨県、観光庁、報道各社、業界専門メディア、各イベント主催者の発表など。</description>
+      <pubDate>Fri, 13 Nov 2026 06:24:41 +0900</pubDate>
+      <guid isPermaLink="false">morning-news-2026-11-13</guid>
+      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-11-13.mp3" length="6030236" type="audio/mpeg"/>
+      <itunes:duration>00:16:44</itunes:duration>
+    </item>
+    <item>
       <title>朝のニュース 11月12日</title>
       <description>労働：連合の2027春闘基本構想・地域別最低賃金改定・毎月勤労統計調査9月分・過労死等防止啓発月間 / AI・経済：富士通モナカサーバー・AI法見直し議論・Anthropicの上場申請・AIクロール拒否の共通枠組み・冬のボーナス予想・東京都区部CPI・GDP一次速報の予想・サイバーセキュリティ緊急対策パッケージ / パチンコ・マダミス・東京イベント：大都技研とビスティの新台・ナゾトキマーケット2026・名探偵プリキュアコラボ企画・日比谷と京橋のイルミネーション・東京都美術館のオルセー展
 
@@ -74,18 +82,6 @@
       <guid isPermaLink="false">morning-news-2026-11-07</guid>
       <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-11-07.mp3" length="5719772" type="audio/mpeg"/>
       <itunes:duration>00:15:53</itunes:duration>
-    </item>
-    <item>
-      <title>朝のニュース 11月6日</title>
-      <description>労働:全労連2027春闘要求・経団連経労委報告原案・人手不足関連倒産が上半期最多
-AI/経済:AIデジタル改革推進会議発足・JERA千葉データセンター計画・企業倒産13年ぶり高水準・訪日外国人消費額が最高・家計調査9か月連続減
-パチンコ/謎解き/東京:新台イーとある魔術の禁書目録3・サンキョーがA-gon子会社化・ナゾトキマーケット2026・六本木けやき坂と丸の内と六義園のイルミネーション
-
-出典:労働新聞各紙報道、経団連・全労連発表、東京商工リサーチ、観光庁、総務省、政府発表、業界専門メディア、各イベント主催者・施設の案内情報、東京都公園協会</description>
-      <pubDate>Fri, 06 Nov 2026 06:28:59 +0900</pubDate>
-      <guid isPermaLink="false">morning-news-2026-11-06</guid>
-      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-11-06.mp3" length="5800268" type="audio/mpeg"/>
-      <itunes:duration>00:16:06</itunes:duration>
     </item>
   </channel>
 </rss>
