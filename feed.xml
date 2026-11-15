@@ -14,6 +14,17 @@
       <link>https://tomtom87641-bot.github.io/morning-news</link>
     </image>
     <item>
+      <title>朝のニュース 11月16日</title>
+      <description>労働・毎月勤労統計調査、連合の成長戦略会議発言、金属労協の処遇改善／エーアイ・アンソロピック上場届出、オープンエーアイ社長発言、グーグル新動画モデル
+経済・食料品消費税法案の参院審議、日銀の金融政策決定会合、ホンダ米新工場、米消費者物価指数／パチンコ新台三機種
+マダミス・謎解き・ヴィヴァン イマーシブミッション、名探偵プリキュアコラボ脱出ゲーム／東京イベント・八王子いちょう祭り、六本木と麻布台のクリスマスマーケット
+出典・厚生労働省、連合、労働関連報道、アンソロピック、海外メディア報道、日本銀行、ホンダ、業界専門メディア、各イベント主催者の発表</description>
+      <pubDate>Mon, 16 Nov 2026 06:20:18 +0900</pubDate>
+      <guid isPermaLink="false">morning-news-2026-11-16</guid>
+      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-11-16.mp3" length="5607740" type="audio/mpeg"/>
+      <itunes:duration>00:15:34</itunes:duration>
+    </item>
+    <item>
       <title>朝のニュース 11月15日</title>
       <description>労働・エーアイ・経済・パチンコ・マダミスと謎解き・東京イベントの六分野をお届けします。
 賃上げ交渉とロボット手当・週四日勤務の実証・エーアイ秘書と交通信号の自動化・地域電子通貨と経済見通し・四季演出の新作パチンコ機・灯台の忘れ形見と水族館の忘れ物・代々木公園の収穫祭とお台場の光の演出
@@ -79,15 +90,6 @@
       <guid isPermaLink="false">morning-news-2026-11-10</guid>
       <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-11-10.mp3" length="5665484" type="audio/mpeg"/>
       <itunes:duration>00:15:44</itunes:duration>
-    </item>
-    <item>
-      <title>朝のニュース 11月9日</title>
-      <description>労働・最低賃金制度見直しと外国人労働者最多・エーアイのジェミニ新機能とプリファードネットワークスの液冷データセンター・トヨタ中間決算と十月新車販売・パチンコ新機種二種と豊丸産業事業停止・渋谷の謎解き企画・代々木や丸の内、東京ミッドタウンのイベント情報
-出典：厚生労働省、公正取引委員会、トヨタ自動車、自動車販売の業界団体、業界専門メディア、各イベント主催者発表、各種報道</description>
-      <pubDate>Mon, 09 Nov 2026 06:28:51 +0900</pubDate>
-      <guid isPermaLink="false">morning-news-2026-11-09</guid>
-      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-11-09.mp3" length="5688092" type="audio/mpeg"/>
-      <itunes:duration>00:15:47</itunes:duration>
     </item>
   </channel>
 </rss>
