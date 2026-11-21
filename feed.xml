@@ -14,6 +14,15 @@
       <link>https://tomtom87641-bot.github.io/morning-news</link>
     </image>
     <item>
+      <title>朝のニュース 11月22日</title>
+      <description>労働(京都府のカスハラ条例骨子案・育成就労の運用ルール・過労死等防止対策白書)・エーアイ(マイクロソフトの新モデル七種・クロードの新機能・オープンエーアイの新機能)・経済(日経平均急落・内閣府の経済資料・円安水準)・パチンコ(新カテゴリー制度・新台二機種)・マダミスと謎解き(桜田ファミリアん・謎めくミュージアム・パンジャ王国展)・東京イベント(アイランダー・六本木ヒルズクリスマスマーケット・よつ葉ミルクフェア・東京都美術館百周年展)
+出典:京都府、出入国在留管理庁、厚生労働省、内閣府、マイクロソフト、アンソロピック、オープンエーアイ、日工組、日電協、各社発表、業界専門メディア、報道機関</description>
+      <pubDate>Sun, 22 Nov 2026 06:27:58 +0900</pubDate>
+      <guid isPermaLink="false">morning-news-2026-11-22</guid>
+      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-11-22.mp3" length="5634092" type="audio/mpeg"/>
+      <itunes:duration>00:15:38</itunes:duration>
+    </item>
+    <item>
       <title>朝のニュース 11月21日</title>
       <description>労働・AIとテクノロジー・経済と社会・パチンコ業界・マダミスと謎解き・東京のイベントの六分野をお届け。労働は賃上げ支援や最低賃金の動き、AIはアンソロピック上場とドコモビジネスのAIエージェント、経済はソニー決算と貿易統計、パチンコは新機種と業界動向、マダミスはレイトン教授と東京メトロの謎解き、イベントは新豊洲と麻布台ヒルズのクリスマスマーケットなどを紹介しています。
 出典：厚生労働省、労働新聞、経団連、アンソロピック、NTTドコモビジネス、ソニーグループ、財務省、総務省、警察庁、アンダーツリーグループ、業界専門メディア、各イベント主催者の発表・報道に基づいています。</description>
@@ -71,16 +80,6 @@
       <guid isPermaLink="false">morning-news-2026-11-16</guid>
       <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-11-16.mp3" length="5607740" type="audio/mpeg"/>
       <itunes:duration>00:15:34</itunes:duration>
-    </item>
-    <item>
-      <title>朝のニュース 11月15日</title>
-      <description>労働・エーアイ・経済・パチンコ・マダミスと謎解き・東京イベントの六分野をお届けします。
-賃上げ交渉とロボット手当・週四日勤務の実証・エーアイ秘書と交通信号の自動化・地域電子通貨と経済見通し・四季演出の新作パチンコ機・灯台の忘れ形見と水族館の忘れ物・代々木公園の収穫祭とお台場の光の演出
-発表・紹介元　全国小売流通労働組合連合会、関東経営者協議会、日本人材サービス協会、大和精密システムズ、東京理工情報研究所、中部電子機器組合、全国地域産業振興連合会、全国産業経営者会議、全国中小企業共済基金、日本遊技文化振興協会、関東遊技場経営者連合会、日本遊技機フェア実行委員会、劇団灯台座、劇団夜想曲</description>
-      <pubDate>Sun, 15 Nov 2026 06:18:33 +0900</pubDate>
-      <guid isPermaLink="false">morning-news-2026-11-15</guid>
-      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-11-15.mp3" length="5816252" type="audio/mpeg"/>
-      <itunes:duration>00:16:09</itunes:duration>
     </item>
   </channel>
 </rss>
