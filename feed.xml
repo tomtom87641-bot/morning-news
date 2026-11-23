@@ -14,6 +14,14 @@
       <link>https://tomtom87641-bot.github.io/morning-news</link>
     </image>
     <item>
+      <title>朝のニュース 11月24日</title>
+      <description>労働(書類送検ラッシュと退職金訴訟)・エーアイ(新型サイバーモデルと巨額投資)・経済(GDP速報と電気ガス補助)・パチンコ(サンキョーの子会社化)・マダミスと謎解き・東京のイベント(クリスマスマーケットなど)。使用媒体は、各労働局、労働新聞、海外メディア、内閣府、帝国データバンク、業界専門メディア、各イベント主催者の発表です。</description>
+      <pubDate>Tue, 24 Nov 2026 06:28:18 +0900</pubDate>
+      <guid isPermaLink="false">morning-news-2026-11-24</guid>
+      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-11-24.mp3" length="5714444" type="audio/mpeg"/>
+      <itunes:duration>00:15:52</itunes:duration>
+    </item>
+    <item>
       <title>朝のニュース 11月23日</title>
       <description>労働・エーアイとテクノロジー・経済と社会・パチンコ業界・マダミスと謎解き・東京のイベントの六分野をお届けします。
 ・連合の与野党への予算要請とフリーランス法の是正指導状況・エヌビディアの決算とエーアイ安全規制の検討・日銀審議委員の講演と冬のボーナス見通し・パチンコパチスロ両用機の披露・九段ハウスの没入型公演・レインボーライドとざんねんないきもの展
@@ -71,15 +79,6 @@
       <guid isPermaLink="false">morning-news-2026-11-18</guid>
       <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-11-18.mp3" length="5687084" type="audio/mpeg"/>
       <itunes:duration>00:15:47</itunes:duration>
-    </item>
-    <item>
-      <title>朝のニュース 11月17日</title>
-      <description>労働・ユーエーゼンセン来年春闘方針／最低賃金目安制度見直し／カスハラ対策義務化・エーアイ・アンソロピック新モデル／テンセント新モデル／エヌビディア調査・経済・GDP速報／トヨタ中間決算・パチンコ新機種三台・マダミス謎解き／東京イベント
-使った媒体・出典：ユーエーゼンセンの発表、厚生労働省の発表、海外メディアの報道、アンソロピックの発表、内閣府の発表、トヨタ自動車の発表、業界専門メディアの新台情報、各イベント主催者の発表</description>
-      <pubDate>Tue, 17 Nov 2026 06:22:08 +0900</pubDate>
-      <guid isPermaLink="false">morning-news-2026-11-17</guid>
-      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-11-17.mp3" length="5567132" type="audio/mpeg"/>
-      <itunes:duration>00:15:27</itunes:duration>
     </item>
   </channel>
 </rss>
