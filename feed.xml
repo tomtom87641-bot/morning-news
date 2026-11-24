@@ -14,6 +14,15 @@
       <link>https://tomtom87641-bot.github.io/morning-news</link>
     </image>
     <item>
+      <title>朝のニュース 11月25日</title>
+      <description>連合要請への政府回答とフリーランス実態調査・アンソロピックとオープンエーアイとグーグルの新モデル発表・エーピーイーシー首脳会議とドコモ情報流出と愛知の地震・警察庁の手数料見直しとパチンコ新機種・東京メトロの異失物係とマダミストリート・新豊洲と上野のクリスマスマーケット
+出典：連合、労働新聞、全労連、海外メディア、オープンエーアイ、外務省、エヌティティドコモ、気象庁、首相官邸、警察庁、業界専門メディア、各イベント主催者の発表</description>
+      <pubDate>Wed, 25 Nov 2026 06:25:38 +0900</pubDate>
+      <guid isPermaLink="false">morning-news-2026-11-25</guid>
+      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-11-25.mp3" length="5743820" type="audio/mpeg"/>
+      <itunes:duration>00:15:57</itunes:duration>
+    </item>
+    <item>
       <title>朝のニュース 11月24日</title>
       <description>労働(書類送検ラッシュと退職金訴訟)・エーアイ(新型サイバーモデルと巨額投資)・経済(GDP速報と電気ガス補助)・パチンコ(サンキョーの子会社化)・マダミスと謎解き・東京のイベント(クリスマスマーケットなど)。使用媒体は、各労働局、労働新聞、海外メディア、内閣府、帝国データバンク、業界専門メディア、各イベント主催者の発表です。</description>
       <pubDate>Tue, 24 Nov 2026 06:28:18 +0900</pubDate>
@@ -70,15 +79,6 @@
       <guid isPermaLink="false">morning-news-2026-11-19</guid>
       <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-11-19.mp3" length="5629196" type="audio/mpeg"/>
       <itunes:duration>00:15:38</itunes:duration>
-    </item>
-    <item>
-      <title>朝のニュース 11月18日</title>
-      <description>労働・AIとテクノロジー・経済と社会・パチンコ・マダミスと謎解き、イマーシブシアター・東京のイベントをお届けします。
-出典:厚生労働省、公正取引委員会、労務行政研究所、JAPAN AI、サイボウズ、楽天グループ、自動車販売・軽自動車の業界団体、百貨店各社、経済産業省、業界専門メディア、SCRAP、マニアな合同会社、ESPACT、Brawl Starsチャンピオンシップ運営、東京クリスマスアドベント運営、三菱地所</description>
-      <pubDate>Wed, 18 Nov 2026 06:25:33 +0900</pubDate>
-      <guid isPermaLink="false">morning-news-2026-11-18</guid>
-      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-11-18.mp3" length="5687084" type="audio/mpeg"/>
-      <itunes:duration>00:15:47</itunes:duration>
     </item>
   </channel>
 </rss>
