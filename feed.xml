@@ -14,6 +14,22 @@
       <link>https://tomtom87641-bot.github.io/morning-news</link>
     </image>
     <item>
+      <title>朝のニュース 11月27日</title>
+      <description>労働・AI・経済・パチンコ・マダミスと謎解き・東京のイベントの六分野をお届けします。
+・労働：総合スーパーの特定最低賃金審議、JAMの春闘方針、建設業の賃上げ改定率、労基署の書類送検
+・AIとテクノロジー：オープンエーアイの新モデルと行列乗算の新証明、ソフトバンクの生成AI導入支援
+・経済と社会：景気動向指数確報値、日経平均、冬のボーナス見通し
+・パチンコ業界：新カテゴリー制度の開始、松原興産のクレーンゲーム新規開店、プレイヤー調査、全日遊連の要望
+・マダミスと謎解き：ジョルディーノの新作公演、探偵キャンプ上野店、ダズルの新作イマーシブシアター
+・東京のイベント：卵フェスin東京、三茶縁日、レジェンドリサーチ最終日、六本木ヒルズクリスマスマーケット
+
+参考media：共同通信、時事通信、厚生労働省、内閣府、各社報道、オープンエーアイ、ソフトバンク、日本遊技機工業組合、日本遊技関連事業協会、全日遊連、各イベント主催者、世田谷区</description>
+      <pubDate>Fri, 27 Nov 2026 06:28:09 +0900</pubDate>
+      <guid isPermaLink="false">morning-news-2026-11-27</guid>
+      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-11-27.mp3" length="5751164" type="audio/mpeg"/>
+      <itunes:duration>00:15:58</itunes:duration>
+    </item>
+    <item>
       <title>朝のニュース 十一月二十六日</title>
       <description>労働・最低賃金改定の発効が進む、連合の来年春闘基本構想、人手不足倒産が過去最多・エーアイ・オープンエーアイの新機能二件・経済・社会・シーイーブー補助金と月例経済報告・パチンコ・年末の新機種ラッシュ・マダミスと謎解き・クイズノックコラボ企画・東京のイベント・今週末の催し六選
 出典 厚生労働省 沖縄労働局 連合 帝国データバンク 内閣府 警察庁 海外メディア報道 業界専門メディア 各イベント主催者の発表</description>
@@ -67,18 +83,6 @@
       <guid isPermaLink="false">morning-news-2026-11-21</guid>
       <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-11-21.mp3" length="5716892" type="audio/mpeg"/>
       <itunes:duration>00:15:52</itunes:duration>
-    </item>
-    <item>
-      <title>朝のニュース 11月20日</title>
-      <description>労働・裁量労働制の審議入り・連合の春闘構想・三重県のカスハラ条例・外国人労働者の話題・アンソロピックの上場・米国の半導体輸出規制強化・グーグルの新機能
-経済・日経平均続伸・ソフトバンクグループ決算・ファーストリテイリングとセブンアンドアイの決算・パチンコのサンキョー決算と新台情報
-マダミスと謎解き・イマーシブシアター・名探偵プリキュアコラボ・東京のイベント・六本木ヒルズ・東京スカイツリー・美術展
-
-使用媒体: 厚生労働省、連合、三重県、海外メディア各社、グーグル、ソフトバンクグループ、ファーストリテイリング、セブンアンドアイホールディングス、サンキョー、業界専門メディア、サミー、クリエイティブミュージアム東京、スクラップ、六本木ヒルズ、東京スカイツリータウン、東京ステーションギャラリー</description>
-      <pubDate>Fri, 20 Nov 2026 06:29:15 +0900</pubDate>
-      <guid isPermaLink="false">morning-news-2026-11-20</guid>
-      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-11-20.mp3" length="5621852" type="audio/mpeg"/>
-      <itunes:duration>00:15:36</itunes:duration>
     </item>
   </channel>
 </rss>
