@@ -14,6 +14,22 @@
       <link>https://tomtom87641-bot.github.io/morning-news</link>
     </image>
     <item>
+      <title>朝のニュース 十一月二十八日</title>
+      <description>労働・エーアイ・経済社会・パチンコ・マダミス謎解き・東京イベントの六分野をお届けします。
+・労働：フリーランス法の是正指導、連合の来年度予算要請
+・エーアイ：エヌビディアCEOの辞任、ソフトバンクとラインヤフーの新戦略
+・経済社会：訪日外国人数、日銀の政策金利、東海旅客鉄道の決算
+・パチンコ：サンキョー、藤商事、平和の新機種
+・マダミス謎解き：九段ハウスのイマーシブシアター、新宿の謎解き街歩き
+・東京イベント：東京都美術館の企画展、多摩市のマルシェ、目黒川のイルミネーション
+
+出典：労働新聞、連合、厚生労働省、海外メディア、ソフトバンク、ウェブ担当者フォーラム、オープンエーアイ、日本政府観光局、日本銀行、各航空会社、東海旅客鉄道、業界専門メディア、主催者発表</description>
+      <pubDate>Sat, 28 Nov 2026 06:29:47 +0900</pubDate>
+      <guid isPermaLink="false">morning-news-2026-11-28</guid>
+      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-11-28.mp3" length="5762684" type="audio/mpeg"/>
+      <itunes:duration>00:16:00</itunes:duration>
+    </item>
+    <item>
       <title>朝のニュース 11月27日</title>
       <description>労働・AI・経済・パチンコ・マダミスと謎解き・東京のイベントの六分野をお届けします。
 ・労働：総合スーパーの特定最低賃金審議、JAMの春闘方針、建設業の賃上げ改定率、労基署の書類送検
@@ -74,15 +90,6 @@
       <guid isPermaLink="false">morning-news-2026-11-22</guid>
       <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-11-22.mp3" length="5634092" type="audio/mpeg"/>
       <itunes:duration>00:15:38</itunes:duration>
-    </item>
-    <item>
-      <title>朝のニュース 11月21日</title>
-      <description>労働・AIとテクノロジー・経済と社会・パチンコ業界・マダミスと謎解き・東京のイベントの六分野をお届け。労働は賃上げ支援や最低賃金の動き、AIはアンソロピック上場とドコモビジネスのAIエージェント、経済はソニー決算と貿易統計、パチンコは新機種と業界動向、マダミスはレイトン教授と東京メトロの謎解き、イベントは新豊洲と麻布台ヒルズのクリスマスマーケットなどを紹介しています。
-出典：厚生労働省、労働新聞、経団連、アンソロピック、NTTドコモビジネス、ソニーグループ、財務省、総務省、警察庁、アンダーツリーグループ、業界専門メディア、各イベント主催者の発表・報道に基づいています。</description>
-      <pubDate>Sat, 21 Nov 2026 06:27:32 +0900</pubDate>
-      <guid isPermaLink="false">morning-news-2026-11-21</guid>
-      <enclosure url="https://tomtom87641-bot.github.io/morning-news/episodes/2026-11-21.mp3" length="5716892" type="audio/mpeg"/>
-      <itunes:duration>00:15:52</itunes:duration>
     </item>
   </channel>
 </rss>
